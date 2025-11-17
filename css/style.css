@@ -252,6 +252,7 @@ main {
 .cv-html ul {
   list-style: none;
   padding: 0;
+  text-align: justify;
 }
 
 .cv-html li {
