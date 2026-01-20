@@ -19,7 +19,7 @@ const translations = {
     "cv.education.bachelor.title": "Physics Bachelor",
     "cv.education.bachelor.program": "International Program",
     "cv.education.bachelor.school": "Bordeaux University",
-    "cv.educaction.bachelor.description": "Erasmus exchange year at Stockholm University in third year",
+    "cv.education.bachelor.description": "Erasmus exchange year at Stockholm University in third year",
     
 
     "cv.education.highschool.title": "Baccalauréat Général Mathematics, Physics and Chemistry",
