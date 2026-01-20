@@ -28,9 +28,19 @@ const translations = {
     "cv.education.highschool.result": "(With Honors),",
     "cv.education.highschool.school": "Jean Cassaigne High School",
     "cv.education.highschool.period": "2021",
-    
-    "cv.jobs": "Jobs",
+
     "cv.internships": "Internships"
+    "cv.internship.research.M1.title": "First year of master internship"
+    "cv.internship.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets"
+    "cv.internship.research.M1.description2": "supervised by Pr. Joao Santos. Magnetic field measurement on previously obtained images of laser shots using a polarimetric diagnostic, participation in an expeirmental campaign on the ABC laser at"
+    "cv.internship.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots"
+    "cv.internship.research.L3.title": "Third year of bachelor internship"
+    "cv.internship.research.L3.lab1": "Stockholm University"
+    "cv.internship.research.L3.lab2": "Quantum Information and Quantum Optics research group"
+    "cv.internship.research.L3.description1":
+      
+    "cv.jobs": "Jobs",
+   
     
     
     
