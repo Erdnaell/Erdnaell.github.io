@@ -7,6 +7,7 @@ const translations = {
     "nav.work": "My Work",
     "nav.academic": "Academic",
     "nav.communication": "Scientific communication",
+    "nav.contact":"Contact",
     
     "cv.name": "Léandre Roccaserra",
     "cv.position": "Physics student",
@@ -41,6 +42,7 @@ const translations = {
     "nav.work": "Productions",
     "nav.academic": "Universitaires",
     "nav.communication": "Vulgarisation",
+    "nav.contact": "Contact",
     
     "cv.name": "Léandre Roccaserra",
     
