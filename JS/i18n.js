@@ -29,15 +29,15 @@ const translations = {
     "cv.education.highschool.school": "Jean Cassaigne High School",
     "cv.education.highschool.period": "2021",
 
-    "cv.internships": "Internships"
-    "cv.internships.research.M1.title": "First year of master internship"
-    "cv.internships.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets"
-    "cv.internships.research.M1.description2": "supervised by Pr. Joao Santos. Magnetic field measurement on previously obtained images of laser shots using a polarimetric diagnostic, participation in an expeirmental campaign on the ABC laser at"
-    "cv.internships.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots"
-    "cv.internships.research.L3.title": "Third year of bachelor internship"
-    "cv.internships.research.L3.lab1": "Stockholm University"
-    "cv.internships.research.L3.lab2": "Quantum Information and Quantum Optics research group"
-    "cv.internships.research.L3.description1":
+    "cv.internships": "Internships",
+    "cv.internships.research.M1.title": "First year of master internship",
+    "cv.internships.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets",
+    "cv.internships.research.M1.description2": "supervised by Pr. Joao Santos. Magnetic field measurement on previously obtained images of laser shots using a polarimetric diagnostic, participation in an expeirmental campaign on the ABC laser at",
+    "cv.internships.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots",
+    "cv.internships.research.L3.title": "Third year of bachelor internship",
+    "cv.internships.research.L3.lab1": "Stockholm University",
+    "cv.internships.research.L3.lab2": "Quantum Information and Quantum Optics research group",
+    "cv.internships.research.L3.description1": "a",
       
     "cv.jobs": "Jobs",
    
