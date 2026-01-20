@@ -27,7 +27,7 @@ const translations = {
     "cv.education.highschool.title": "Baccalauréat Général Mathematics, Physics and Chemistry",
     "cv.education.highschool.result": "(With Honors),",
     "cv.education.highschool.school": "Jean Cassaigne High School",
-    "cv.education.highschool.period": "- 2021",
+    "cv.education.highschool.period": "2021",
     
     "cv.jobs": "Jobs",
     "cv.internships": "Internships"
