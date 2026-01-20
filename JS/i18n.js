@@ -1,5 +1,13 @@
 const translations = {
   en: {
+    nav-home: "Home",
+    nav-gallery: "Gallery",
+    nav-resume:  "Resume",
+    nav-aboutme: "About me",
+    nav-work: "My Work",
+    nav-academic: "Academic",
+    nav-communication: "Scientific communication",
+    
     name: "Léandre Roccaserra",
     position: "Physics student",
     education : "Education",
@@ -14,6 +22,13 @@ const translations = {
     
   },
   fr: {
+    nav-home: "Accueil",
+    nav-gallery: "Gallerie",
+    nav-resume:  "CV",
+    nav-aboutme: "Qui-suis-je ?",
+    nav-work: "Productions",
+    nav-academic: "Universitaires",
+    nav-communication: "Vulgarisation",
     name: "Léandre Roccaserra",
     position: "Etudiant en Physique",
     education : "Formation",
