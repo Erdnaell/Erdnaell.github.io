@@ -16,7 +16,7 @@ const translations = {
     "highschool": "Baccalauréat général, Mathematics, Physics and Chemistry",
     
     "jobs": "Jobs",
-    "internships": "internships",
+    "internships": "internships"
     
     
     
@@ -33,7 +33,7 @@ const translations = {
     "position": "Etudiant en Physique",
     "education" : "Formation",
     "internships": "Stages",
-    "jobs" : "Expérience Professionelle",
+    "jobs" : "Expérience Professionelle"
     
     
   }
