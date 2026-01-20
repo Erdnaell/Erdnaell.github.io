@@ -12,12 +12,12 @@ const translations = {
     "cv.position": "Physics student",
     "cv.education": "Education",
     "cv.education.master.title": "Master in Physics, First Year",
-    "cv.education.master.programm": "Nucleus, Particles and Universe Program",
+    "cv.education.master.program": "Nucleus, Particles and Universe Program",
     "cv.education.master.school": "Bordeaux University",
     "cv.education.master.period": "Current",
 
     "cv.education.bachelor.title": "Physics Bachelor",
-    "cv.education.bachelor.programm": "International Program",
+    "cv.education.bachelor.program": "International Program",
     "cv.education.bachelor.school": "Bordeaux University",
     "cv.educaction.bachelor.description": "Erasmus exchange year at Stockholm University in third year",
     
@@ -48,12 +48,12 @@ const translations = {
     
     "cv.education" : "Formation",
     "cv.education.master.title": "Master 1 Physique Fondaemntale et Applications",
-    "cv.education.master.programm": "Parcours Noyaux Particules et Univers",
+    "cv.education.master.program": "Parcours Noyaux Particules et Univers",
     "cv.education.master.school": "Université de Bordeaux",
     "cv.education.master.period": "Actuel",
 
     "cv.education.bachelor.title": "Licence de Physique",
-    "cv.education.bachelor.programm": "Parcours International",
+    "cv.education.bachelor.program": "Parcours International",
     "cv.education.bachelor.school": "Université de Bordeaux",
     "cv.educaction.bachelor.description": "Année d'échange Erasmus à l'Université de Stockholm en L3",
     
