@@ -55,7 +55,7 @@ const translations = {
     "cv.education.bachelor.title": "Licence de Physique",
     "cv.education.bachelor.program": "Parcours International",
     "cv.education.bachelor.school": "Université de Bordeaux",
-    "cv.educaction.bachelor.description": "Année d'échange Erasmus à l'Université de Stockholm en L3",
+    "cv.education.bachelor.description": "Année d'échange Erasmus à l'Université de Stockholm en L3",
     
 
     "cv.education.highschool.title": "Baccalauréat Général Mathématiques, Physique-Chimie",
