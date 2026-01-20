@@ -16,7 +16,7 @@ const translations = {
     "highschool": "Baccalauréat général, Mathematics, Physics and Chemistry",
     
     "jobs": "Jobs",
-    "internships": "internships"
+    "internships": "Internships"
     
     
     
