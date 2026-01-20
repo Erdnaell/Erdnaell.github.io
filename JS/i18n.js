@@ -1,39 +1,70 @@
 const translations = {
   en: {
-    "nav-home": "Home",
-    "nav-gallery": "Gallery",
-    "nav-resume":  "Resume",
-    "nav-aboutme": "About me",
-    "nav-work": "My Work",
-    "nav-academic": "Academic",
-    "nav-communication": "Scientific communication",
+    "nav.home": "Home",
+    "nav.gallery": "Gallery",
+    "nav.resume":  "Resume",
+    "nav.aboutme": "About me",
+    "nav.work": "My Work",
+    "nav.academic": "Academic",
+    "nav.communication": "Scientific communication",
     
-    "name": "Léandre Roccaserra",
-    "position": "Physics student",
-    "education": "Education",
-    "master": "First year of master programm in Physics",
-    "bachelor": "Bachelor in Physics",
-    "highschool": "Baccalauréat général, Mathematics, Physics and Chemistry",
+    "cv.name": "Léandre Roccaserra",
+    "cv.position": "Physics student",
+    "cv.education": "Education",
+    "cv.education.master.title": "Master in Physics, First Year",
+    "cv.education.master.programm": "Nucleus, Particles and Universe Program",
+    "cv.education.master.school": "Bordeaux University",
+    "cv.education.master.period": "Current",
+
+    "cv.education.bachelor.title": "Physics Bachelor",
+    "cv.education.bachelor.programm": "International Program",
+    "cv.education.bachelor.school": "Bordeaux University",
+    "cv.educaction.bachelor.description": "Erasmus exchange year at Stockholm University in third year",
     
-    "jobs": "Jobs",
-    "internships": "Internships"
+
+    "cv.education.highschool.title": "Baccalauréat Général Mathematics, Physics and Chemistry",
+    "cv.education.highschool.result": "(With Honors),",
+    "cv.education.highschool.school": "Jean Cassaigne High School"
+    "cv.education.highschool.period": "- 2021"
+    
+    "cv.jobs": "Jobs",
+    "cv.internships": "Internships"
     
     
     
   },
   fr: {
-    "nav-home": "Accueil",
-    "nav-gallery": "Gallerie",
-    "nav-resume":  "CV",
-    "nav-aboutme": "Qui-suis-je ?",
-    "nav-work": "Productions",
-    "nav-academic": "Universitaires",
-    "nav-communication": "Vulgarisation",
-    "name": "Léandre Roccaserra",
-    "position": "Etudiant en Physique",
-    "education" : "Formation",
-    "internships": "Stages",
-    "jobs" : "Expérience Professionelle"
+    "nav.home": "Accueil",
+    "nav.gallery": "Gallerie",
+    "nav.resume":  "CV",
+    "nav.aboutme": "Qui-suis-je ?",
+    "nav.work": "Productions",
+    "nav.academic": "Universitaires",
+    "nav.communication": "Vulgarisation",
+    
+    "cv.name": "Léandre Roccaserra",
+    
+    "cv.position": "Etudiant en Physique",
+    
+    "cv.education" : "Formation",
+    "cv.education.master.title": "Master 1 Physique Fondaemntale et Applications",
+    "cv.education.master.programm": "Parcours Noyaux Particules et Univers",
+    "cv.education.master.school": "Université de Bordeaux",
+    "cv.education.master.period": "Actuel",
+
+    "cv.education.bachelor.title": "Licence de Physique",
+    "cv.education.bachelor.programm": "Parcours International",
+    "cv.education.bachelor.school": "Université de Bordeaux",
+    "cv.educaction.bachelor.description": "Année d'échange Erasmus à l'Université de Stockholm en L3",
+    
+
+    "cv.education.highschool.title": "Baccalauréat Général Mathématiques, Physique-Chimie",
+    "cv.education.highschool.result": "(Mention Très Bien),",
+    "cv.education.highschool.school": "Lycée Jean Cassaigne"
+    "cv.education.highschool.period": "- 2021"
+    
+    "cv.internships": "Stages",
+    "cv.jobs" : "Expérience Professionelle"
     
     
   }
