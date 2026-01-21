@@ -57,7 +57,7 @@ const translations = {
     
     "cv.name": "Léandre Roccaserra",
     
-    "cv.position": "Etudiant en Physique",
+    "cv.position": "Étudiant en Physique",
     
     "cv.education" : "Formation",
     "cv.education.master.title": "Master 1 Physique Fondamentale et Applications",
@@ -69,6 +69,7 @@ const translations = {
     "cv.education.bachelor.program": "Parcours International",
     "cv.education.bachelor.school": "Université de Bordeaux",
     "cv.education.bachelor.description": "Année d'échange Erasmus à l'Université de Stockholm en L3",
+    "cv.education.bachelor.period": "2024",
     
 
     "cv.education.highschool.title": "Baccalauréat Général Mathématiques, Physique-Chimie",
