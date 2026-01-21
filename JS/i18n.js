@@ -74,7 +74,7 @@ const translations = {
     "cv.education.highschool.title": "Baccalauréat Général Mathématiques, Physique-Chimie",
     "cv.education.highschool.result": "(Mention Très Bien),",
     "cv.education.highschool.school": "Lycée Jean Cassaigne",
-    "cv.education.highschool.period": "- 2021",
+    "cv.education.highschool.period": "2021",
     
     "cv.internships": "Stages",
     "cv.jobs" : "Expérience Professionelle"
