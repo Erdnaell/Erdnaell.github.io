@@ -101,7 +101,7 @@ const translations = {
 
     "cv.internships.highschool": "Découverte",
     "cv.internships.highschool.title": "First year of high scoool internship",
-    "cv.internships.highschool.description": "One week at CEA Paris-Saclay Astrophysics department, supervised by Patrice Bouchet
+    "cv.internships.highschool.description": "One week at CEA Paris-Saclay Astrophysics department, supervised by Patrice Bouchet",
     
     "cv.jobs" : "Expérience Professionelle"
     
