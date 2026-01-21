@@ -31,8 +31,6 @@ const translations = {
 
     "cv.internships": "Internships",
     "cv.internships.research.M1.title": "First year of Master internship",
-    "cv.internships.research.M1.lab": "CELIA",
-    "cv.internships.research.M1.city": "Talence",
     "cv.internships.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets",
     "cv.internships.research.M1.description2": "supervised by Pr. Joao Santos. Magnetic field measurement on previously obtained images of laser shots using a polarimetric diagnostic, participation in an expeirmental campaign on the ABC laser at",
     "cv.internships.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots",
@@ -87,8 +85,6 @@ const translations = {
     
     "cv.internships": "Stages",
     "cv.internships.research": "Univsersitaire",
-    "cv.internships.research.M1.lab": "CELIA",
-    "cv.internships.research.M1.Talence",
     "cv.internships.research.M1.title": "Stage de M1",
     "cv.internships.research.M1.description1": " Génération de champs magnétiques quasi-statiques par interaction laser-matière avec des cibles à boucle",
     "cv.internships.research.M1.description2": "Encadré par Pr. Joao Santos. Mesure de champs magnétiques par polarimétrie sur des images de tirs laser obtenues sur des expériences antérieures, participation à une campagne expérimentale sur le laser ABC à",
