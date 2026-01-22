@@ -53,7 +53,7 @@ const translations = {
     "cv.jobs.city": "Bordeaux",
     "cv.jobs.period": "Since 2023",
     "cv.jobs.description1": "Part time job in a science communication association. Animation of the",
-    "cv.jobs.description2": "Animation of exhibitions about"
+    "cv.jobs.description2": "Animation of exhibitions about",
     "cv.jobs.description3": "and",
     "cv.jobs.description4": "Animation of a workshop for teenagers of introduction to synthesizers and musical sound prcessing",
 
