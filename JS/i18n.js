@@ -38,11 +38,11 @@ const translations = {
     "cv.internships.research.L3.lab1": "Stockholm University",
     "cv.internships.research.L3.lab2": "Quantum Information and Quantum Optics research group",
     "cv.internships.research.L3.description1": "Characterization of quantum integrated photonic circuits",
-    "cv.internships.research.L3.description2": "Supervised by Pr Mohamed Bourennane. Measurements of optical loss in LiNbO3 waveguides protoypes, high voltage periodic poling of LiNbO3 samples",
+    "cv.internships.research.L3.description2": "Supervised by Pr Mohamed Bourennane. Measurements of optical loss in LiNbO3 waveguides protoypes, high voltage periodic poling of LiNbO3 samples.",
 
     "cv.internships.highschool": "High School",
-    "cv.internships.highschool.title": "First year of high scoool internship",
-    "cv.internships.highschool.description": "One week at CEA Paris-Saclay Astrophysics department, supervised by Patrice Bouchet",
+    "cv.internships.highschool.title": "First year of high scoool internships",
+    "cv.internships.highschool.description": "One week at CEA Paris-Saclay Astrophysics department, supervised by Patrice Bouchet. One week at Paris-Diderot University Physics department.",
     
       
     "cv.jobs": "Jobs",
@@ -79,7 +79,7 @@ const translations = {
     
 
     "cv.education.highschool.title": "Baccalauréat Général Mathématiques, Physique-Chimie",
-    "cv.education.highschool.result": "(Mention Très Bien),",
+    "cv.education.highschool.result": "(Mention Très Bien)",
     "cv.education.highschool.school": "Lycée Jean Cassaigne",
     "cv.education.highschool.period": "2021",
     
@@ -89,15 +89,15 @@ const translations = {
     "cv.internships.research.M1.description1": " Génération de champs magnétiques quasi-statiques par interaction laser-matière avec des cibles à boucle",
     "cv.internships.research.M1.description2": "Encadré par Pr. Joao Santos. Mesure de champs magnétiques par polarimétrie sur des images de tirs laser obtenues sur des expériences antérieures, participation à une campagne expérimentale sur le laser ABC à",
     "cv.internships.research.M1.description3": "Frascati, en Italie et analyse préliminaires des images des premiers tirs",
-    "cv.internships.research.L3.title": "Third year of bachelor internship",
-    "cv.internships.research.L3.lab1": "Stockholm University",
-    "cv.internships.research.L3.lab2": "Quantum Information and Quantum Optics research group",
-    "cv.internships.research.L3.description1": "Characterization of quantum integrated photonic circuits",
-    "cv.internships.research.L3.description2": "Supervised by Pr Mohamed Bourennane. Measurements of optical loss in LiNbO3 waveguides protoypes, high voltage periodic poling of LiNbO3 samples",
+    "cv.internships.research.L3.title": "Stage de L3",
+    "cv.internships.research.L3.lab1": "Université de Stockholm",
+    "cv.internships.research.L3.lab2": "groupe de recherche",
+    "cv.internships.research.L3.description1": "Charactérisation de circuits photoniques quantiques intégrés",
+    "cv.internships.research.L3.description2": "encadré par Pr. Mohamed Bourennane. Mesure des pertes optiques dans des prototypes de guides d'ondes en LiNbO3, periodic poling d'échantillon de LiNbO3 par application de haute tension.",
 
     "cv.internships.highschool": "Découverte",
-    "cv.internships.highschool.title": "First year of high scoool internship",
-    "cv.internships.highschool.description": "One week at CEA Paris-Saclay Astrophysics department, supervised by Patrice Bouchet",
+    "cv.internships.highschool.title": "Stages de seconde : ",
+    "cv.internships.highschool.description": "Une semaine au CEA Paris-Saclay, département d'astrophysique encadré par Patrice Bouchet. Une semaine dans l'UF de Physique de l'université Paris Diderot.",
     
     "cv.jobs" : "Expérience Professionelle"
     
