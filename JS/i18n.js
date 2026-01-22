@@ -37,7 +37,8 @@ const translations = {
     "cv.internships.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots",
     "cv.internships.research.L3.title": "Third year of bachelor internship",
     "cv.internships.research.L3.lab1": "Stockholm University",
-    "cv.internships.research.L3.lab2": "Quantum Information and Quantum Optics research group",
+    "cv.intersnhips.research.L3.description.group.before": "groupe de recherche",
+    "cv.intersnhips.research.L3.description.group.after": "research group",
     "cv.internships.research.L3.description1": "Characterization of quantum integrated photonic circuits",
     "cv.internships.research.L3.description2": "Supervised by Pr Mohamed Bourennane. Measurements of optical loss in LiNbO3 waveguides protoypes, high voltage periodic poling of LiNbO3 samples.",
 
