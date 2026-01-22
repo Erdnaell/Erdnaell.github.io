@@ -59,6 +59,11 @@ const translations = {
 
     "cv.digitalskills": "Digital skills",
     "cv.digitalskills.coding": "Coding",
+    "cv.digitalskills.editing": "Editing",
+
+    "cv.certifications": "Certifications",
+    "cv.certifications.english": "English",
+    "cv.certifications.firstaid": "First aid",
 
     "cv.hobbies": "Hobbies",
     "cv.hobbies.astronomy": "Astronomy: ",
@@ -132,8 +137,14 @@ const translations = {
     "cv.jobs.description3": "and",
     "cv.jobs.description4": "Animation of a workshop for teenagers of introduction to synthesizers and musical sound prcessing",
 
-    "cv.digitalskills": "Digital skills",
-    "cv.digitalskills.coding": "Coding",
+    
+    "cv.digitalskills": "Compétences numériques",
+    "cv.digitalskills.coding": "Programmation",
+    "cv.digitalskills.editing": "Présentation",
+
+    "cv.certifications": "Certifications",
+    "cv.certifications.english": "Anglais",
+    "cv.certifications.firstaid": "Premiers secours",
 
     "cv.hobbies": "Hobbies",
     "cv.hobbies.astronomy": "Astronomy : ",
