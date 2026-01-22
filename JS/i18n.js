@@ -59,8 +59,13 @@ const translations = {
 
     "cv.digitalskills": "Digital skills",
     "cv.digitalskills.coding": "Coding",
-    "cv.digitalskills.coding.description": "Python, Matlab, Arduino, HTML/CSS, Arduino, p5.js",
-    "cv.digitalskills.editing": "Presentation tools"
+
+    "cv.hobbies": "Hobbies",
+    "cv.hobbies.astronomy": "Astronomy: ",
+    "cv.hobbies.astronomy.description": "I have beenobserving for 6 years with a 203/1200 (8'') dobsonian telescope.",
+    "cv.hobbies.guitar": "Guitar/Bass: ": "I have practiced guitar and bass alone and in bands for 8 years.",
+    "cv.hobbies.climbing": "Climbing: ",
+    "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing."
    
     
     
@@ -116,7 +121,26 @@ const translations = {
     "cv.internships.highschool.title": "Stages de seconde",
     "cv.internships.highschool.description": "Une semaine au CEA Paris-Saclay, département d'astrophysique encadré par Patrice Bouchet. Une semaine dans l'UF de Physique de l'université Paris Diderot.",
     
-    "cv.jobs" : "Expérience Professionelle"
+   "cv.jobs": "Expérience professionelle",
+    "cv.jobs.title": "Animateur scientifique",
+    "cv.jobs.employer": "Cap Sciences",
+    "cv.jobs.city": "Bordeaux",
+    "cv.jobs.period": "Depuis 2023",
+    "cv.jobs.description1": "Part time job in a science communication association. Animation of the",
+    "cv.jobs.description2": "Animation of exhibitions about",
+    "cv.jobs.description3": "and",
+    "cv.jobs.description4": "Animation of a workshop for teenagers of introduction to synthesizers and musical sound prcessing",
+
+    "cv.digitalskills": "Digital skills",
+    "cv.digitalskills.coding": "Coding",
+
+    "cv.hobbies": "Hobbies",
+    "cv.hobbies.astronomy": "Astronomy: ",
+    "cv.hobbies.astronomy.description": "I have beenobserving for 6 years with a 203/1200 (8'') dobsonian telescope.",
+    "cv.hobbies.guitar": "Guitar/Bass: ": "I have practiced guitar and bass alone and in bands for 8 years.",
+    "cv.hobbies.climbing": "Climbing: ",
+    "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing."
+   
     
     
   }
