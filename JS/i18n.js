@@ -30,15 +30,15 @@ const translations = {
     "cv.education.highschool.period": "2021",
 
     "cv.internships": "Internships",
-    "cv.internships.research" = "Research",
+    "cv.internships.research" : "Research",
     "cv.internships.research.M1.title": "First year of Master internship",
     "cv.internships.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets",
     "cv.internships.research.M1.description2": "supervised by Pr. Joao Santos. Magnetic field measurement on previously obtained images of laser shots using a polarimetric diagnostic, participation in an expeirmental campaign on the ABC laser at",
     "cv.internships.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots",
     "cv.internships.research.L3.title": "Third year of bachelor internship",
     "cv.internships.research.L3.lab1": "Stockholm University",
-    "cv.intersnhips.research.L3.description.group.before": "",
-    "cv.intersnhips.research.L3.description.group.after": "research group",
+    "cv.internships.research.L3.description.group.before": "",
+    "cv.internships.research.L3.description.group.after": "research group",
     "cv.internships.research.L3.description1": "Characterization of quantum integrated photonic circuits",
     "cv.internships.research.L3.description2": "Supervised by Pr Mohamed Bourennane. Measurements of optical loss in LiNbO3 waveguides protoypes, high voltage periodic poling of LiNbO3 samples.",
 
