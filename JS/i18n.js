@@ -62,8 +62,9 @@ const translations = {
 
     "cv.hobbies": "Hobbies",
     "cv.hobbies.astronomy": "Astronomy: ",
-    "cv.hobbies.astronomy.description": "I have beenobserving for 6 years with a 203/1200 (8'') dobsonian telescope.",
-    "cv.hobbies.guitar": "Guitar/Bass: ": "I have practiced guitar and bass alone and in bands for 8 years.",
+    "cv.hobbies.astronomy.description": "I have been observing for 6 years with a 203/1200 (8'') dobsonian telescope.",
+    "cv.hobbies.guitar": "Guitar/Bass: ",
+    "cv.hobbies.guitar.description": "I have been practicing guitar and bass alone and in bands for 8 years.",
     "cv.hobbies.climbing": "Climbing: ",
     "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing."
    
@@ -135,10 +136,11 @@ const translations = {
     "cv.digitalskills.coding": "Coding",
 
     "cv.hobbies": "Hobbies",
-    "cv.hobbies.astronomy": "Astronomy: ",
+    "cv.hobbies.astronomy": "Astronomy : ",
     "cv.hobbies.astronomy.description": "I have beenobserving for 6 years with a 203/1200 (8'') dobsonian telescope.",
-    "cv.hobbies.guitar": "Guitar/Bass: ": "I have practiced guitar and bass alone and in bands for 8 years.",
-    "cv.hobbies.climbing": "Climbing: ",
+    "cv.hobbies.guitar": "Guitar/Bass : ",
+    "cv.hobbies.guitar.description": "",
+    "cv.hobbies.climbing": "Climbing : ",
     "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing."
    
     
