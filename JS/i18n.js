@@ -45,7 +45,19 @@ const translations = {
     "cv.internships.highschool.description": "One week at CEA Paris-Saclay Astrophysics department, supervised by Patrice Bouchet. One week at Paris-Diderot University Physics department.",
     
       
-    "cv.jobs": "Jobs",
+    "cv.jobs": "Work experience",
+    "cv.jobs.title": "Scientific Animator",
+    "cv.jobs.employer": "Cap Sciences",
+    "cv.jobs.city": "Bordeaux",
+    "cv.jobs.period": "Since 2023",
+    "cv.jobs.description1": "Part time job in a science communication association. Animation of the Planetarium. Animation of exhibitions about",
+    "cv.jobs.description2": "and",
+    "cv.jobs.description3": "Animation of a workshop for teenagers of introduction to synthesizers and musical sound prcessing",
+
+    "cv.digitalskills": "Digital skills",
+    "cv.digitalskills.coding": "Coding",
+    "cv.digitalskills.coding.description": "Python, Matlab, Arduino, HTML/CSS, Arduino, p5.js",
+    "cv.digitalskills.editing": "Presentation tools"
    
     
     
