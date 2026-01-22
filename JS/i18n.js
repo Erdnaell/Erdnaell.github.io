@@ -53,9 +53,10 @@ const translations = {
     "cv.jobs.city": "Bordeaux",
     "cv.jobs.period": "Since 2023",
     "cv.jobs.description1": "Part time job in a science communication association. Animation of the",
-    "cv.jobs.description2": "Animation of exhibitions about",
+    "cv.jobs.description2": "Animation of exhibitions on",
     "cv.jobs.description3": "and",
-    "cv.jobs.description4": "Animation of a workshop for teenagers of introduction to synthesizers and musical sound prcessing",
+    "cv.jobs.description4": "Animation of the",
+    "cv.jobs.description4": "workshop to introduce teenagers to synthesizers and musical audio engineering",
 
     "cv.digitalskills": "Digital skills",
     "cv.digitalskills.coding": "Coding",
@@ -132,10 +133,12 @@ const translations = {
     "cv.jobs.employer": "Cap Sciences",
     "cv.jobs.city": "Bordeaux",
     "cv.jobs.period": "Depuis 2023",
-    "cv.jobs.description1": "Part time job in a science communication association. Animation of the",
-    "cv.jobs.description2": "Animation of exhibitions about",
-    "cv.jobs.description3": "and",
-    "cv.jobs.description4": "Animation of a workshop for teenagers of introduction to synthesizers and musical sound prcessing",
+    "cv.jobs.description1": "Animation du",
+    "cv.jobs.description2": "Animation des expositions",
+    "cv.jobs.description3": "et",
+    "cv.jobs.description4": "Animation de l'atelier d'introduction à la synthèse musicale",
+    "cv.jobs.description4": "à destination des 11-16 ans ",
+    
 
     
     "cv.digitalskills": "Compétences numériques",
