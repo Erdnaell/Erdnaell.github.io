@@ -112,7 +112,7 @@ const translations = {
     "cv.internships.research.L3.description2": "encadré par Pr. Mohamed Bourennane. Mesure des pertes optiques dans des prototypes de guides d'ondes en LiNbO3, periodic poling d'échantillon de LiNbO3 par application de haute tension.",
 
     "cv.internships.highschool": "Découverte",
-    "cv.internships.highschool.title": "Stages de seconde : ",
+    "cv.internships.highschool.title": "Stages de seconde",
     "cv.internships.highschool.description": "Une semaine au CEA Paris-Saclay, département d'astrophysique encadré par Patrice Bouchet. Une semaine dans l'UF de Physique de l'université Paris Diderot.",
     
     "cv.jobs" : "Expérience Professionelle"
