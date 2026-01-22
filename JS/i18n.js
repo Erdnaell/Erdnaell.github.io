@@ -30,6 +30,7 @@ const translations = {
     "cv.education.highschool.period": "2021",
 
     "cv.internships": "Internships",
+    "cv.internships.research" = "Research",
     "cv.internships.research.M1.title": "First year of Master internship",
     "cv.internships.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets",
     "cv.internships.research.M1.description2": "supervised by Pr. Joao Santos. Magnetic field measurement on previously obtained images of laser shots using a polarimetric diagnostic, participation in an expeirmental campaign on the ABC laser at",
