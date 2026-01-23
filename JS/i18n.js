@@ -57,7 +57,7 @@ const translations = {
     "cv.jobs.description.videogames": "Video Games",
     "cv.jobs.description3": "and",
     "cv.jobs.description4": "and I lead a few sessions of the",
-    "cv.jobs.description5": "workshop aimed at introducing teenagers to synthesizers and musical audio engineering",
+    "cv.jobs.description5": "workshop aimed at introducing teenagers to synthesizers and musical audio engineering.",
 
     "cv.digitalskills": "Digital skills",
     "cv.digitalskills.coding": "Coding",
@@ -137,11 +137,11 @@ const translations = {
     "cv.jobs.city": "Bordeaux",
     "cv.jobs.period": "Depuis 2023",
     "cv.jobs.description1": "Animation du",
-    "cv.jobs.description2": "animation des expositions",
+    "cv.jobs.description2": ",animation des expositions",
     "cv.jobs.description3": "et",
     "cv.jobs.description.videogames": "Jeux Vidéos",
     "cv.jobs.description4": "animation de l'atelier d'introduction à la synthèse musicale",
-    "cv.jobs.description5": "à destination des 11-16 ans ",
+    "cv.jobs.description5": "à destination des 11-16 ans.",
     
 
     
@@ -154,12 +154,12 @@ const translations = {
     "cv.certifications.firstaid": "Premiers secours",
 
     "cv.hobbies": "Hobbies",
-    "cv.hobbies.astronomy": "Astronomy : ",
-    "cv.hobbies.astronomy.description": "I have beenobserving for 6 years with a 203/1200 (8'') dobsonian telescope.",
-    "cv.hobbies.guitar": "Guitar/Bass : ",
-    "cv.hobbies.guitar.description": "",
-    "cv.hobbies.climbing": "Climbing : ",
-    "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
+    "cv.hobbies.astronomy": "Astronomy : ": "Astronomie amateure,
+    "cv.hobbies.astronomy.description": "6 ans d'observations avec un télescope Dobson 203/1200.",
+    "cv.hobbies.guitar": "Guitar/Bass : ": "Astronomie",
+    "cv.hobbies.guitar.description": "8 ans de pratique seul et en groupe, composition et MAO",
+    "cv.hobbies.climbing": "Climbing : ": "Escalade",
+    "cv.hobbies.climbing.description": "8 ans de pratique indoor/outdoor, niveau 6C+ en voie/bloc",
 
     "footer.legal": "Tous droits réservés"
    
