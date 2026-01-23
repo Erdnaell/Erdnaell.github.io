@@ -72,7 +72,9 @@ const translations = {
     "cv.hobbies.guitar": "Guitar/Bass: ",
     "cv.hobbies.guitar.description": "I have been practicing guitar and bass alone and in bands for 8 years.",
     "cv.hobbies.climbing": "Climbing: ",
-    "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing."
+    "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
+
+    "foot.legal": "All rights reserved"
    
     
     
@@ -155,7 +157,9 @@ const translations = {
     "cv.hobbies.guitar": "Guitar/Bass : ",
     "cv.hobbies.guitar.description": "",
     "cv.hobbies.climbing": "Climbing : ",
-    "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing."
+    "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
+
+    "foot.legal": "Tous droits réservés"
    
     
     
