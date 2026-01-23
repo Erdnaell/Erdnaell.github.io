@@ -54,6 +54,7 @@ const translations = {
     "cv.jobs.period": "Since 2023",
     "cv.jobs.description1": "Part time job in a science communication association. Animation of the",
     "cv.jobs.description2": "Animation of exhibitions on",
+    "cv.jobs.description.videogames": "Video Games",
     "cv.jobs.description3": "and",
     "cv.jobs.description4": "Animation of the",
     "cv.jobs.description4": "workshop to introduce teenagers to synthesizers and musical audio engineering",
