@@ -153,7 +153,7 @@ const translations = {
     "cv.certifications.english": "Anglais",
     "cv.certifications.firstaid": "Premiers secours",
 
-    "cv.hobbies": "Hobbies",
+    "cv.hobbies": "Centres d'intérêt",
     "cv.hobbies.astronomy": "Astronomy : ": "Astronomie amateure",
     "cv.hobbies.astronomy.description": "6 ans d'observations avec un télescope Dobson 203/1200.",
     "cv.hobbies.guitar": "Guitar/Bass : ": "Astronomie",
