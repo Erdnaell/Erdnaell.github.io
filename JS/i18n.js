@@ -74,7 +74,7 @@ const translations = {
     "cv.hobbies.climbing": "Climbing: ",
     "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
 
-    "foot.legal": "All rights reserved"
+    "footer.legal": "All rights reserved"
    
     
     
@@ -159,7 +159,7 @@ const translations = {
     "cv.hobbies.climbing": "Climbing : ",
     "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
 
-    "foot.legal": "Tous droits réservés"
+    "footer.legal": "Tous droits réservés"
    
     
     
