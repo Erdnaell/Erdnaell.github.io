@@ -48,7 +48,7 @@ const translations = {
     
       
     "cv.jobs": "Work experience",
-    "cv.jobs.title": "Scientific Animator",
+    "cv.jobs.title": "Science communicator",
     "cv.jobs.employer": "Cap Sciences",
     "cv.jobs.city": "Bordeaux",
     "cv.jobs.period": "Since 2023",
