@@ -156,9 +156,9 @@ const translations = {
     "cv.hobbies": "Centres d'intérêt",
     "cv.hobbies.astronomy": "Astronomy : ": "Astronomie amateure",
     "cv.hobbies.astronomy.description": "6 ans d'observations avec un télescope Dobson 203/1200.",
-    "cv.hobbies.guitar": "Guitar/Bass : ": "Astronomie",
+    "cv.hobbies.guitar": "Guitare/Basse : ",
     "cv.hobbies.guitar.description": "8 ans de pratique seul et en groupe, composition et MAO",
-    "cv.hobbies.climbing": "Climbing : ": "Escalade",
+    "cv.hobbies.climbing": "Escalade : ",
     "cv.hobbies.climbing.description": "8 ans de pratique indoor/outdoor, niveau 6C+ en voie/bloc",
 
     "footer.legal": "Tous droits réservés"
