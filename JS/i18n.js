@@ -56,7 +56,7 @@ const translations = {
     "cv.jobs.description2": "I presented guided tours of exhibitions on",
     "cv.jobs.description.videogames": "Video Games",
     "cv.jobs.description3": "and",
-    "cv.jobs.description4": "I lead a few sessions of the",
+    "cv.jobs.description4": "and I lead a few sessions of the",
     "cv.jobs.description4": "workshop aimed at introducing teenagers to synthesizers and musical audio engineering",
 
     "cv.digitalskills": "Digital skills",
@@ -137,9 +137,9 @@ const translations = {
     "cv.jobs.city": "Bordeaux",
     "cv.jobs.period": "Depuis 2023",
     "cv.jobs.description1": "Animation du",
-    "cv.jobs.description2": "Animation des expositions",
+    "cv.jobs.description2": "animation des expositions",
     "cv.jobs.description3": "et",
-    "cv.jobs.description4": "Animation de l'atelier d'introduction à la synthèse musicale",
+    "cv.jobs.description4": "animation de l'atelier d'introduction à la synthèse musicale",
     "cv.jobs.description4": "à destination des 11-16 ans ",
     
 
