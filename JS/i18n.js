@@ -57,7 +57,7 @@ const translations = {
     "cv.jobs.description.videogames": "Video Games",
     "cv.jobs.description3": "and",
     "cv.jobs.description4": "and I lead a few sessions of the",
-    "cv.jobs.description4": "workshop aimed at introducing teenagers to synthesizers and musical audio engineering",
+    "cv.jobs.description5": "workshop aimed at introducing teenagers to synthesizers and musical audio engineering",
 
     "cv.digitalskills": "Digital skills",
     "cv.digitalskills.coding": "Coding",
@@ -140,7 +140,7 @@ const translations = {
     "cv.jobs.description2": "animation des expositions",
     "cv.jobs.description3": "et",
     "cv.jobs.description4": "animation de l'atelier d'introduction à la synthèse musicale",
-    "cv.jobs.description4": "à destination des 11-16 ans ",
+    "cv.jobs.description5": "à destination des 11-16 ans ",
     
 
     
