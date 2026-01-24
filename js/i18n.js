@@ -8,6 +8,10 @@ const translations = {
     "nav.academic": "Academic",
     "nav.communication": "Scientific communication",
     "nav.contact":"Contact",
+
+    "index.welcome": "Welcome on my website",
+    "index.moto": "Astronomy, scientific photography, projetcs and more",
+    "index.gallerybutton": "To the gallery",
     
     "cv.name": "Léandre Roccaserra",
     "cv.position": "Physics student",
@@ -164,7 +168,7 @@ const translations = {
     "cv.hobbies.climbing": "Escalade : ",
     "cv.hobbies.climbing.description": "8 ans de pratique indoor/outdoor, niveau 6C+ en voie/bloc",
 
-    "footer.moto": "Astrophotographie -Physique - Projets",
+    "footer.moto": "Astrophotographie - Physique - Projets",
     "footer.about": "À propos",
     "footer.gallery": "Gallerie",
     "footer.legal": "Tous droits réservés"
