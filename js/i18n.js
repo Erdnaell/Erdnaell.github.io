@@ -166,7 +166,7 @@ const translations = {
 
     "footer.moto": "Astrophotographie -Physique - Projets",
     "footer.about": "À propos",
-    "footer;GALLERY": "Gallerie",
+    "footer.gallery": "Gallerie",
     "footer.legal": "Tous droits réservés"
    
     
