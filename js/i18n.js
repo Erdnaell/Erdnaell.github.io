@@ -10,7 +10,7 @@ const translations = {
     "nav.contact":"Contact",
 
     "index.welcome": "Welcome on my website",
-    "index.moto": "Astronomy, scientific photography, projetcs and more",
+    "index.moto": "Astronomy, scientific photography, projects and more",
     "index.gallerybutton": "To the gallery",
     
     "cv.name": "Léandre Roccaserra",
@@ -80,7 +80,7 @@ const translations = {
     "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
 
     "footer.moto": "Astrophotography - Physics - Creative projetcs",
-    "footer.about": "about",
+    "footer.about": "About",
     "footer.gallery": "Gallery",
     "footer.legal": "All rights reserved"
    
@@ -97,6 +97,10 @@ const translations = {
     "nav.academic": "Universitaires",
     "nav.communication": "Vulgarisation",
     "nav.contact": "Contact",
+
+    "index.welcome": "Bienvenue sur mon site",
+    "index.moto": "Astronomie amateure, photographie scientifique, projets et autres",
+    "index.gallerybutton": "Voir la galerie",
     
     "cv.name": "Léandre Roccaserra",
     
@@ -170,7 +174,7 @@ const translations = {
 
     "footer.moto": "Astrophotographie - Physique - Projets",
     "footer.about": "À propos",
-    "footer.gallery": "Gallerie",
+    "footer.gallery": "Galerie",
     "footer.legal": "Tous droits réservés"
    
     
