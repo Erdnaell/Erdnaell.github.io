@@ -13,6 +13,8 @@ const translations = {
     "index.moto": "Astronomy, scientific photography, projects and more",
     "index.gallerybutton": "To the gallery",
 
+    "gallery.title": "Gallery",
+
     "gallery.sun.title": "Sun",
     "gallery.sun.date": "",
     "gallery.sun.location": "",
@@ -111,6 +113,8 @@ const translations = {
     "index.welcome": "Bienvenue sur mon site",
     "index.moto": "Astronomie amateure, photographie scientifique, projets et autres",
     "index.gallerybutton": "Voir la galerie",
+
+    "gallery.title": "Galerie",
     
     "cv.name": "Léandre Roccaserra",
     
