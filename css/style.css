@@ -263,6 +263,10 @@ main {
 }
 
 .cv-html ul {
+  list-style: circle;
+}
+
+.cv-html ul.a {
   list-style: none;
   padding: 0;
   text-align: justify;
