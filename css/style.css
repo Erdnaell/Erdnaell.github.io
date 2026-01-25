@@ -155,6 +155,11 @@ nav ul li a:hover {
   padding: 2rem;
 }
 
+.gallery h1 {
+  text-align: center;
+}
+
+
 .gallery-item {
   display: inline-block;     /* required to prevent Masonry bugs */
   width: 100%;
