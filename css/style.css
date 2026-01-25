@@ -262,11 +262,11 @@ main {
   color: "white";
 }
 
-.cv-html ul {
+.cv-html ul.b {
   list-style: circle;
 }
 
-.cv-html ul.a {
+.cv-html ul {
   list-style: none;
   padding: 0;
   text-align: justify;
