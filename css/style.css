@@ -149,15 +149,16 @@ nav ul li a:hover {
 /* Gallery */
 
 
+.gallery h1 {
+  text-align: center;
+}
+
 .gallery {
   column-count: 3;     /* number of columns */
   column-gap: 1.5rem;  /* space between columns */
   padding: 2rem;
 }
 
-.gallery h1 {
-  text-align: center;
-}
 
 
 .gallery-item {
