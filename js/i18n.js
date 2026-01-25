@@ -12,6 +12,16 @@ const translations = {
     "index.welcome": "Welcome on my website",
     "index.moto": "Astronomy, scientific photography, projects and more",
     "index.gallerybutton": "To the gallery",
+
+    "gallery.sun.title": "Sun",
+    "gallery.sun.date": "",
+    "gallery.sun.location": "",
+    "gallery.sun.software": "",
+    "gallery.sun.description": "",
+    "gallery.sun.instrument": "",
+    "gallery.sun.camera": "",
+    
+    "gallery.eclipse.title": "",
     
     "cv.name": "Léandre Roccaserra",
     "cv.position": "Physics student",
