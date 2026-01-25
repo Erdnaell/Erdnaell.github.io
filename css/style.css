@@ -264,6 +264,8 @@ main {
 
 .cv-html ul.sublist {
   list-style: circle;
+  margin-left: 1.5rem;
+  padding-left: 1rem;
 }
 
 .cv-html ul {
