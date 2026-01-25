@@ -31,7 +31,7 @@ const translations = {
     "cv.education.master.title": "First year of Master in Physics",
     "cv.education.master.program": "Nucleus, Particles and Universe Program",
     "cv.education.master.school": "Bordeaux University",
-    "cv.education.master.period": "Current",
+    "cv.education.master.period": "Present",
 
     "cv.education.bachelor.title": "Bachelor's degree in Physics",
     "cv.education.bachelor.program": "International Program",
