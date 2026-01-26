@@ -93,7 +93,7 @@ const translations = {
     "cv.hobbies.climbing": "Climbing: ",
     "cv.hobbies.climbing.description": "I have been climbing for eight years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
 
-    "footer.moto": "Astrophotography - Physics - Creative projects",
+    "footer.moto": "Astronomy - Scientific photography - Physics - Creative projects",
     "footer.about": "About",
     "footer.gallery": "Gallery",
     "footer.legal": "All rights reserved"
