@@ -9,7 +9,7 @@ const translations = {
     "nav.communication": "Scientific communication",
     "nav.contact":"Contact",
 
-    "index.welcome": "Welcome on my website",
+    "index.welcome": "Welcome to my website",
     "index.moto": "Astronomy, scientific photography, projects and more",
     "index.gallerybutton": "To the gallery",
 
@@ -26,18 +26,18 @@ const translations = {
     "gallery.eclipse.title": "",
     
     "cv.name": "Léandre Roccaserra",
-    "cv.position": "Physics student",
+    "cv.position": "Physics graduate student",
     "cv.education": "Education",
-    "cv.education.master.title": "First year of Master in Physics",
+    "cv.education.master.title": "First year of a Master's degree in Physics",
     "cv.education.master.program": "Nucleus, Particles and Universe Program",
     "cv.education.master.school": "Bordeaux University",
-    "cv.education.master.period": "Present",
+    "cv.education.master.period": "Current",
 
     "cv.education.bachelor.title": "Bachelor's degree in Physics",
     "cv.education.bachelor.program": "International Program",
     "cv.education.bachelor.school": "Bordeaux University",
     "cv.education.bachelor.period": "2024",
-    "cv.education.bachelor.description": "Third year completed as an Erasmus exchange in Stockholm University",
+    "cv.education.bachelor.description": "Third year completed as an Erasmus exchange at Stockholm University",
     
 
     "cv.education.highschool.title": "High school diploma in Mathematics, Physics and Chemistry",
@@ -47,19 +47,19 @@ const translations = {
 
     "cv.internships": "Internships",
     "cv.internships.research" : "Research",
-    "cv.internships.research.M1.title": "First year of Master internship",
+    "cv.internships.research.M1.title": "First year Master's internship",
     "cv.internships.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets",
-    "cv.internships.research.M1.description2": "supervised by Pr. Joao Santos. Magnetic field measurement on previously obtained images of laser shots using a polarimetric diagnostic, participation in an expeirmental campaign on the ABC laser at",
+    "cv.internships.research.M1.description2": "supervised by Pr. Joao Santos. Magnetic field measurements on previously obtained images of laser shots using a polarimetric diagnostic, participation in an expeirmental campaign on the ABC laser at",
     "cv.internships.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots",
-    "cv.internships.research.L3.title": "Third year of Bachelor internship",
+    "cv.internships.research.L3.title": "Third year Bachelor's internship",
     "cv.internships.research.L3.lab1": "Stockholm University",
     "cv.internships.research.L3.description.group.before": "",
     "cv.internships.research.L3.description.group.after": "research group",
     "cv.internships.research.L3.description1": "Characterization of quantum integrated photonic circuits",
-    "cv.internships.research.L3.description2": "Supervised by Pr Mohamed Bourennane. Measurements of optical loss in LiNbO3 waveguides protoypes, high voltage periodic poling of LiNbO3 samples.",
+    "cv.internships.research.L3.description2": "Supervised by Pr Mohamed Bourennane. Measurements of optical loss in LiNbO3 waveguides prototypes, high voltage periodic poling of LiNbO3 samples.",
 
     "cv.internships.highschool": "High School",
-    "cv.internships.highschool.title": "First year of high scoool internships",
+    "cv.internships.highschool.title": "First year of high school internships",
     "cv.internships.highschool.description": "One week at CEA Paris-Saclay Astrophysics department, supervised by Patrice Bouchet. One week at Paris-Diderot University Physics department.",
     
       
@@ -68,12 +68,12 @@ const translations = {
     "cv.jobs.employer": "Cap Sciences",
     "cv.jobs.city": "Bordeaux",
     "cv.jobs.period": "Since 2023",
-    "cv.jobs.description1": "Part time job in a science communication museum in which I hosted sessions of the",
-    "cv.jobs.description2": "I presented guided tours of exhibitions on",
+    "cv.jobs.description1": "Part time job in a science communication museum where I hosted sessions of the",
+    "cv.jobs.description2": "I gave guided tours of exhibitions on",
     "cv.jobs.description.videogames": "Video Games",
     "cv.jobs.description3": "and",
-    "cv.jobs.description4": "and I lead a few sessions of the",
-    "cv.jobs.description5": "workshop aimed at introducing teenagers to synthesizers and musical audio engineering.",
+    "cv.jobs.description4": "and I led a few sessions of the",
+    "cv.jobs.description5": "workshop aimed at introducing teenagers to synthesizers and audio signal processing.",
 
     "cv.digitalskills": "Digital skills",
     "cv.digitalskills.coding": "Coding",
@@ -85,11 +85,11 @@ const translations = {
 
     "cv.hobbies": "Hobbies",
     "cv.hobbies.astronomy": "Astronomy: ",
-    "cv.hobbies.astronomy.description": "I have been observing for 6 years with a 203/1200 (8'') dobsonian telescope.",
+    "cv.hobbies.astronomy.description": "I have been practicing observational astronomy for six years with a 203/1200 (8'') dobsonian telescope.",
     "cv.hobbies.guitar": "Guitar/Bass: ",
-    "cv.hobbies.guitar.description": "I have been practicing guitar and bass alone and in bands for 8 years.",
+    "cv.hobbies.guitar.description": "I have been practicing guitar and bass alone and in bands for eight years.",
     "cv.hobbies.climbing": "Climbing: ",
-    "cv.hobbies.climbing.description": "I have been climbing for 8 years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
+    "cv.hobbies.climbing.description": "I have been climbing for eight years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
 
     "footer.moto": "Astrophotography - Physics - Creative projetcs",
     "footer.about": "About",
@@ -139,7 +139,7 @@ const translations = {
     "cv.education.highschool.period": "2021",
     
     "cv.internships": "Stages",
-    "cv.internships.research": "Univsersitaire",
+    "cv.internships.research": "Universitaire",
     "cv.internships.research.M1.title": "Stage de M1",
     "cv.internships.research.M1.description1": " Génération de champs magnétiques quasi-statiques par interaction laser-matière avec des cibles à boucle",
     "cv.internships.research.M1.description2": "Encadré par Pr. Joao Santos. Mesure de champs magnétiques par polarimétrie sur des images de tirs laser obtenues sur des expériences antérieures, participation à une campagne expérimentale sur le laser ABC à",
@@ -156,7 +156,7 @@ const translations = {
     "cv.internships.highschool.title": "Stages de seconde",
     "cv.internships.highschool.description": "Une semaine au CEA Paris-Saclay, département d'astrophysique encadré par Patrice Bouchet. Une semaine dans l'UF de Physique de l'université Paris Diderot.",
     
-   "cv.jobs": "Expérience professionelle",
+   "cv.jobs": "Expérience professionnelle",
     "cv.jobs.title": "Animateur scientifique",
     "cv.jobs.employer": "Cap Sciences",
     "cv.jobs.city": "Bordeaux",
@@ -179,7 +179,7 @@ const translations = {
     "cv.certifications.firstaid": "Premiers secours",
 
     "cv.hobbies": "Centres d'intérêt",
-    "cv.hobbies.astronomy": "Astronomie amateure",
+    "cv.hobbies.astronomy": "Astronomie amateur",
     "cv.hobbies.astronomy.description": "6 ans d'observations avec un télescope Dobson 203/1200.",
     "cv.hobbies.guitar": "Guitare/Basse : ",
     "cv.hobbies.guitar.description": "8 ans de pratique seul et en groupe, composition et MAO",
