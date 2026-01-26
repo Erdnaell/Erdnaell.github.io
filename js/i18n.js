@@ -37,7 +37,7 @@ const translations = {
     "cv.education.bachelor.program": "International Program",
     "cv.education.bachelor.school": "Bordeaux University",
     "cv.education.bachelor.period": "2024",
-    "cv.education.bachelor.description": "Erasmus exchange year at Stockholm University in third year",
+    "cv.education.bachelor.description": "Third year completed as an Erasmus exchange in Stockholm University",
     
 
     "cv.education.highschool.title": "High school diploma in Mathematics, Physics and Chemistry",
@@ -51,7 +51,7 @@ const translations = {
     "cv.internships.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets",
     "cv.internships.research.M1.description2": "supervised by Pr. Joao Santos. Magnetic field measurement on previously obtained images of laser shots using a polarimetric diagnostic, participation in an expeirmental campaign on the ABC laser at",
     "cv.internships.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots",
-    "cv.internships.research.L3.title": "Third year of bachelor internship",
+    "cv.internships.research.L3.title": "Third year of Bachelor internship",
     "cv.internships.research.L3.lab1": "Stockholm University",
     "cv.internships.research.L3.description.group.before": "",
     "cv.internships.research.L3.description.group.after": "research group",
