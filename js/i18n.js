@@ -166,7 +166,7 @@ const translations = {
     "cv.jobs.city": "Bordeaux",
     "cv.jobs.period": "Depuis 2023",
     "cv.jobs.description1": "Animation du",
-    "cv.jobs.description2": ",animation des expositions",
+    "cv.jobs.description2": "animation des expositions",
     "cv.jobs.description3": "et",
     "cv.jobs.description.videogames": "Jeux Vidéos",
     "cv.jobs.description4": "animation de l'atelier d'introduction à la synthèse musicale",
