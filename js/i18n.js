@@ -78,12 +78,12 @@ const translations = {
     "cv.jobs.description5": "workshop aimed at introducing teenagers to synthesizers and audio signal processing.",
 
     "cv.digitalskills": "Digital skills",
-    "cv.digitalskills.coding": "Coding",
-    "cv.digitalskills.editing": "Editing",
+    "cv.digitalskills.coding": "Coding:",
+    "cv.digitalskills.editing": "Editing:",
 
     "cv.certifications": "Certifications",
-    "cv.certifications.english": "English",
-    "cv.certifications.firstaid": "First aid",
+    "cv.certifications.english": "English:",
+    "cv.certifications.firstaid": "First aid:",
 
     "cv.hobbies": "Hobbies",
     "cv.hobbies.astronomy": "Astronomy: ",
