@@ -175,12 +175,12 @@ const translations = {
 
     
     "cv.digitalskills": "Compétences numériques",
-    "cv.digitalskills.coding": "Programmation",
-    "cv.digitalskills.editing": "Présentation",
+    "cv.digitalskills.coding": "Programmation :",
+    "cv.digitalskills.editing": "Présentation :",
 
     "cv.certifications": "Certifications",
-    "cv.certifications.english": "Anglais",
-    "cv.certifications.firstaid": "Premiers secours",
+    "cv.certifications.english": "Anglais :",
+    "cv.certifications.firstaid": "Premiers secours :",
 
     "cv.hobbies": "Centres d'intérêt",
     "cv.hobbies.astronomy": "Astronomie amateur :",
