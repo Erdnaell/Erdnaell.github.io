@@ -49,7 +49,7 @@ const translations = {
     "cv.internships.research" : "Research",
     "cv.internships.research.M1.title": "First year Master's internship",
     "cv.internships.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets",
-    "cv.internships.research.M1.supervisor": "Supervised by Prof. Joao Santos."
+    "cv.internships.research.M1.supervisor": "Supervised by Prof. Joao Santos.",
     "cv.internships.research.M1.description2": "Magnetic field measurements on previously obtained images of laser shots using a polarimetric diagnostic, participation in an experimental campaign on the ABC laser at",
     "cv.internships.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots",
     "cv.internships.research.L3.title": "Third year Bachelor's internship",
@@ -143,7 +143,8 @@ const translations = {
     "cv.internships.research": "Universitaire",
     "cv.internships.research.M1.title": "Stage de M1",
     "cv.internships.research.M1.description1": " Génération de champs magnétiques quasi-statiques par interaction laser-matière avec des cibles à boucle",
-    "cv.internships.research.M1.description2": "Encadré par Pr. Joao Santos. Mesure de champs magnétiques par polarimétrie sur des images de tirs laser obtenues sur des expériences antérieures, participation à une campagne expérimentale sur le laser ABC à",
+    "cv.internships.research.M1.supervisor": "Encadré par Pr. Joao Santos."
+    "cv.internships.research.M1.description2": "Mesure de champs magnétiques par polarimétrie sur des images de tirs laser obtenues sur des expériences antérieures, participation à une campagne expérimentale sur le laser ABC à",
     "cv.internships.research.M1.description3": "Frascati, en Italie et analyse préliminaires des images des premiers tirs",
     "cv.internships.research.L3.title": "Stage de L3",
     "cv.internships.research.L3.lab1": "Université de Stockholm",
