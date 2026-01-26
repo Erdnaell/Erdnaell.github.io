@@ -49,7 +49,8 @@ const translations = {
     "cv.internships.research" : "Research",
     "cv.internships.research.M1.title": "First year Master's internship",
     "cv.internships.research.M1.description1": "Generation of intense quasi-static magnetic fields by laser-matter interaction with coil targets",
-    "cv.internships.research.M1.description2": "supervised by Prof. Joao Santos. Magnetic field measurements on previously obtained images of laser shots using a polarimetric diagnostic, participation in an experimental campaign on the ABC laser at",
+    "cv.internships.research.M1.supervisor": "Supervised by Prof. Joao Santos."
+    "cv.internships.research.M1.description2": "Magnetic field measurements on previously obtained images of laser shots using a polarimetric diagnostic, participation in an experimental campaign on the ABC laser at",
     "cv.internships.research.M1.description3": "Frascati, in Italy and preliminary analysis of the images from the first few shots",
     "cv.internships.research.L3.title": "Third year Bachelor's internship",
     "cv.internships.research.L3.lab1": "Stockholm University",
