@@ -190,7 +190,7 @@ const translations = {
     "cv.hobbies.climbing": "Escalade : ",
     "cv.hobbies.climbing.description": "8 ans de pratique indoor/outdoor, niveau 6C+ en voie/bloc",
 
-    "footer.moto": "Astrophotographie - Physique - Projets",
+    "footer.moto": "Astronomie - Photographie scientifique - Physique - Projets",
     "footer.about": "À propos",
     "footer.gallery": "Galerie",
     "footer.legal": "Tous droits réservés"
