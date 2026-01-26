@@ -57,7 +57,8 @@ const translations = {
     "cv.internships.research.L3.description.group.before": "",
     "cv.internships.research.L3.description.group.after": "research group",
     "cv.internships.research.L3.description1": "Characterization of quantum integrated photonic circuits",
-    "cv.internships.research.L3.description2": "Supervised by Prof. Mohamed Bourennane. Measurements of optical loss in LiNbO3 waveguide prototypes, high voltage periodic poling of LiNbO3 samples.",
+    "cv.internships.research.L3.supervisor": "Supervised by Prof. Mohamed Bourennane.",
+    "cv.internships.research.L3.description2": "Measurements of optical loss in LiNbO3 waveguide prototypes, high voltage periodic poling of LiNbO3 samples.",
 
     "cv.internships.highschool": "High School",
     "cv.internships.highschool.title": "First year of high school internships",
@@ -152,7 +153,8 @@ const translations = {
     "cv.internships.research.L3.description.group.after": "",
     "cv.internships.research.L3.lab2": "groupe de recherche",
     "cv.internships.research.L3.description1": "Caractérisation de circuits photoniques quantiques intégrés",
-    "cv.internships.research.L3.description2": "encadré par Pr. Mohamed Bourennane. Mesure des pertes optiques dans des prototypes de guides d'ondes en LiNbO3, periodic poling d'échantillon de LiNbO3 par application de haute tension.",
+    "cv.internships.research.L3.supervisor": "Encadré par Pr. Mohamed Bourennane.",
+    "cv.internships.research.L3.description2": "Mesure des pertes optiques dans des prototypes de guides d'ondes en LiNbO3, periodic poling d'échantillon de LiNbO3 par application de haute tension.",
 
     "cv.internships.highschool": "Découverte",
     "cv.internships.highschool.title": "Stages de seconde",
