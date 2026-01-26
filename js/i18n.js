@@ -143,7 +143,7 @@ const translations = {
     "cv.internships.research": "Universitaire",
     "cv.internships.research.M1.title": "Stage de M1",
     "cv.internships.research.M1.description1": " Génération de champs magnétiques quasi-statiques par interaction laser-matière avec des cibles à boucle",
-    "cv.internships.research.M1.supervisor": "Encadré par Pr. Joao Santos."
+    "cv.internships.research.M1.supervisor": "Encadré par Pr. Joao Santos.",
     "cv.internships.research.M1.description2": "Mesure de champs magnétiques par polarimétrie sur des images de tirs laser obtenues sur des expériences antérieures, participation à une campagne expérimentale sur le laser ABC à",
     "cv.internships.research.M1.description3": "Frascati, en Italie et analyse préliminaires des images des premiers tirs",
     "cv.internships.research.L3.title": "Stage de L3",
