@@ -309,6 +309,13 @@ a:hover {
   color: #50CDEA;
 }
 
+
+
+/* Hide hamburger on desktop */
+.nav-toggle {
+  display: none;
+}
+
 /* Mobile navigation */
 @media (max-width: 768px) {
   nav {
@@ -356,8 +363,4 @@ a:hover {
   }
 }
 
-/* Hide hamburger on desktop */
-.nav-toggle {
-  display: none;
-}
 
