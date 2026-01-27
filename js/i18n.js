@@ -211,14 +211,19 @@ function setLanguage(lang) {
 
 // Apply language on page load
 document.addEventListener("DOMContentLoaded", () => {
+  // Language
   const saved = localStorage.getItem("lang") || "fr";
   setLanguage(saved);
+
+  // Mobile nav toggle
+  const toggle = document.querySelector(".nav-toggle");
+  const menu = document.getElementById("nav-menu");
+
+  if (toggle && menu) {
+    toggle.addEventListener("click", () => {
+      menu.classList.toggle("show");
+    });
+  }
 });
 
-const toggle = document.querySelector(".nav-toggle");
-const menu = document.getElementById("nav-menu");
-
-toggle.addEventListener("click", () => {
-  menu.classList.toggle("show");
-});
 
