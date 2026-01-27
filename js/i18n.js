@@ -87,7 +87,7 @@ const translations = {
 
     "cv.hobbies": "Hobbies",
     "cv.hobbies.astronomy": "Astronomy: ",
-    "cv.hobbies.astronomy.description": "I have been practicing observational astronomy for six years with a 203/1200 (8'') dobsonian telescope.",
+    "cv.hobbies.astronomy.description": "I have been practicing amateur astronomy for six years with a 203/1200 (8'') dobsonian telescope.",
     "cv.hobbies.guitar": "Guitar/Bass: ",
     "cv.hobbies.guitar.description": "I have been practicing guitar and bass alone and in bands for eight years.",
     "cv.hobbies.climbing": "Climbing: ",
