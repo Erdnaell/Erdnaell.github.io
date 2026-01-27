@@ -110,6 +110,68 @@ nav ul li a:hover {
   color: #42B0FF;
 }
 
+
+
+
+
+/* Hide hamburger on desktop */
+.nav-toggle {
+  display: none;
+}
+
+/* Mobile navigation */
+@media (max-width: 768px) {
+  nav {
+    padding: 0.8rem 1rem;
+  }
+
+  .nav-toggle {
+    display: block;
+    background: none;
+    border: none;
+    color: #e5e5e5;
+    font-size: 1.8rem;
+    cursor: pointer;
+  }
+
+  nav ul {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #111;
+    flex-direction: column;
+    gap: 0;
+    display: none;
+  }
+
+  nav ul.show {
+    display: flex;
+  }
+
+  nav ul li {
+    text-align: center;
+    padding: 0.8rem 0;
+  }
+
+  /* Disable hover dropdown on mobile */
+  .dropdown:hover .dropdown-menu {
+    display: none;
+  }
+
+  /* Make dropdown open on tap */
+  .dropdown-menu {
+    position: static;
+    box-shadow: none;
+  }
+}
+
+
+
+
+
+
+
 /* Hero section */
 .hero {
   height: 100vh;
@@ -311,56 +373,5 @@ a:hover {
 
 
 
-/* Hide hamburger on desktop */
-.nav-toggle {
-  display: none;
-}
-
-/* Mobile navigation */
-@media (max-width: 768px) {
-  nav {
-    padding: 0.8rem 1rem;
-  }
-
-  .nav-toggle {
-    display: block;
-    background: none;
-    border: none;
-    color: #e5e5e5;
-    font-size: 1.8rem;
-    cursor: pointer;
-  }
-
-  nav ul {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    background: #111;
-    flex-direction: column;
-    gap: 0;
-    display: none;
-  }
-
-  nav ul.show {
-    display: flex;
-  }
-
-  nav ul li {
-    text-align: center;
-    padding: 0.8rem 0;
-  }
-
-  /* Disable hover dropdown on mobile */
-  .dropdown:hover .dropdown-menu {
-    display: none;
-  }
-
-  /* Make dropdown open on tap */
-  .dropdown-menu {
-    position: static;
-    box-shadow: none;
-  }
-}
 
 
