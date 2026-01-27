@@ -214,3 +214,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const saved = localStorage.getItem("lang") || "fr";
   setLanguage(saved);
 });
+
+const toggle = document.querySelector(".nav-toggle");
+const menu = document.getElementById("nav-menu");
+
+toggle.addEventListener("click", () => {
+  menu.classList.toggle("show");
+});
+
