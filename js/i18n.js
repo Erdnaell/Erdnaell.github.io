@@ -104,7 +104,7 @@ const translations = {
   },
   fr: {
     "nav.home": "Accueil",
-    "nav.gallery": "Gallerie",
+    "nav.gallery": "Galerie",
     "nav.resume":  "CV",
     "nav.aboutme": "Qui-suis-je ?",
     "nav.work": "Productions",
