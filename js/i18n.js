@@ -96,7 +96,7 @@ const translations = {
     "footer.moto": "Astronomy - Scientific photography - Physics - Creative projects",
     "footer.about": "About",
     "footer.gallery": "Gallery",
-    "footer.legal": "All rights reserved"
+    "footer.legal": "2026 - All rights reserved"
    
     
     
@@ -193,7 +193,7 @@ const translations = {
     "footer.moto": "Astronomie - Photographie scientifique - Physique - Projets",
     "footer.about": "À propos",
     "footer.gallery": "Galerie",
-    "footer.legal": "Tous droits réservés"
+    "footer.legal": "2026 - Tous droits réservés"
    
     
     
