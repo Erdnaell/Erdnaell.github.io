@@ -91,7 +91,29 @@ const translations = {
     "gallery.plasma1.software": "",
     "gallery.plasma1.instrument": "",
     "gallery.plasma1.camera": "",
-    "gallery.plasma1.description": "Shadowscopic imaging of an expanding plasma obtained by focusin a mW laser on a solid target",
+    "gallery.plasma1.description": "Shadowscopic imaging of an expanding plasma obtained by focusing a mW laser in air",
+
+    "gallery.plasma2.title": "Laser plasma expansion on a target",
+    "gallery.plasma2.date": "",
+    "gallery.plasma2.location": "",
+    "gallery.plasma2.software": "",
+    "gallery.plasma2.instrument": "",
+    "gallery.plasma2.camera": "",
+    "gallery.plasma2.description": "Strioscopic (Schlieren) imaging of an expanding plasma obtained by focusing a mW laser on a solid target",
+
+    "gallery.laserlab.title": "Laser lab",
+    "gallery.laserlab.description": "Photograph of a fellow student during a lab session",
+    "gallery.laserlab.camera" : "Iphone 7",
+
+    "gallery.laser.title": "Laser alignment",
+    "gallery.laser.description": "Alignment and caracterization of a LiNbO3 waveguide with a laser",
+    "gallery.laser.camera": "Iphone 7",
+
+    "gallery.maxwell.title": "Maxwell",
+    "gallery.maxwell.description": "Maxwell's equations",
+    "gallery.maxwell.location": "Tekniska Högskolan, Stockholm Subway",
+    "gallery.maxwell.camera": "Iphone 7",
+      
     
     "cv.name": "Léandre Roccaserra",
     "cv.position": "Physics graduate student",
@@ -185,6 +207,110 @@ const translations = {
     "index.gallerybutton": "Voir la galerie",
 
     "gallery.title": "Galerie",
+    
+    "gallery.sun.title": "Tâches solaires",
+    "gallery.sun.date": "05/08/2025",
+    "gallery.sun.location": "France",
+    "gallery.sun.software": "Traitement avec GIMP",
+    "gallery.sun.description": "Photographié avec un filtre Baader pour observer les tâches solaires",
+    "gallery.sun.instrument": "Télescope 203/1200",
+    "gallery.sun.camera": "Iphone XS",
+
+    "gallery.sun2.title": "Soleil et contrails",
+    "gallery.sun2.date": "05/08/2025",
+    "gallery.sun2.location": "France",
+    "gallery.sun2.software": "Traitement avec GIMP",
+    "gallery.sun2.description": "Photographié (une seconde trop tard) avec un filtre Baader",
+    "gallery.sun2.instrument": "Télescope 203/1200",
+    "gallery.sun2.camera": "Iphone XS",
+    
+    "gallery.eclipse.title": "Eclipse partielle",
+    "gallery.eclipse.date": "29/03/2015",
+    "gallery.eclipse.location": "France",
+    "gallery.eclipse.software": "Traitement avec GIMP",
+    "gallery.eclipse.instrument": "Télescope 203/1200",
+    "gallery.eclipse.camera": "Iphone XS",
+
+    "gallery.moon1.title": "Quartier de Lune",
+    "gallery.moon1.date": "10/11/2024",
+    "gallery.moon1.location": "France",
+    "gallery.moon1.software": "",
+    "gallery.moon1.instrument": "Télescope 203/1200",
+    "gallery.moon1.camera": "Iphone 7",
+
+    "gallery.moon2.title": "Vue rapprochée de la Lune",
+    "gallery.moon2.date": "10/11/2024",
+    "gallery.moon2.location": "France",
+    "gallery.moon2.software": "",
+    "gallery.moon2.instrument": "Télescope 203/1200",
+    "gallery.moon2.camera": "Iphone 7",
+    "gallery.moon2.description": "Vue rapprochée de la Mer des Pluies et des cratères Archimèdes, Platon et Copernic",
+
+    "gallery.moon3.title": "Vue rapprochée de la lune",
+    "gallery.moon3.date": "10/11/2024",
+    "gallery.moon3.location": "France",
+    "gallery.moon3.software": "",
+    "gallery.moon3.instrument": "Télescope 203/1200",
+    "gallery.moon3.camera": "Iphone 7",
+    "gallery.moon3.description": "",
+
+    "gallery.jupiter.title": "Jupiter",
+    "gallery.jupiter.date": "17/11/2025",
+    "gallery.jupiter.location": "France",
+    "gallery.jupiter.software": "Traitement aevc PIPP et Autostakkert3",
+    "gallery.jupiter.instrument": "Télescope 203/1200",
+    "gallery.jupiter.camera": "Iphone 7",
+    "gallery.jupiter.description": "Ma première image Jupiter",
+
+    "gallery.saturn.title": "Saturne",
+    "gallery.saturn.date": "17/11/2025",
+    "gallery.saturn.location": "France",
+    "gallery.saturn.software": "Traitement aevc PIPP et Autostakkert3",
+    "gallery.saturn.instrument": "Télescope 203/1200",
+    "gallery.saturn.camera": "Iphone 7",
+    "gallery.saturn.description": "Ma première image de Saturne",
+
+    "gallery.carbon.title": "Réseau crystalin d'un échantillon de graphene",
+    "gallery.carbon.date": "",
+    "gallery.carbon.location": "",
+    "gallery.carbon.software": "Traitement avec Gwyddion",
+    "gallery.carbon.instrument": "",
+    "gallery.carbon.camera": "",
+    "gallery.carbon.description": "Image obtenue avec un microscope à effet tunnel Nanosurf NaioSTM après traitement par filtrage de Fourier",
+
+    "gallery.plasma1.title": "Plasma laser dans l'air",
+    "gallery.plasma1.date": "",
+    "gallery.plasma1.location": "",
+    "gallery.plasma1.software": "",
+    "gallery.plasma1.instrument": "",
+    "gallery.plasma1.camera": "",
+    "gallery.plasma1.description": "Image obtenue par ombroscopie d'un plasma en expansion quasi-cylindrique généré par focalisation d'un laser mW dans l'air",
+
+    "gallery.plasma2.title": "Plasma laser sur cible",
+    "gallery.plasma2.date": "",
+    "gallery.plasma2.location": "",
+    "gallery.plasma2.software": "",
+    "gallery.plasma2.instrument": "",
+    "gallery.plasma2.camera": "",
+    "gallery.plasma2.description": "Image obtenue par strioscopie d'un plasma en expansion quasi-sphérique généré par focalisation d'un laser mW sur une cible en acier",
+
+    "gallery.laserlab.title": "Labo laser",
+    "gallery.laserlab.description": "Photographie d'un camarade de promo pendant un TP - Iphone 7",
+    "gallery.laserlab.camera" : "Iphone 7",
+
+    "gallery.laser.title": "Alignement laser",
+    "gallery.laser.description": "Alignement et caractérisation d'un guide d'onde en LiNb03 avec un laser optique",
+    "gallery.laser.camera": "Iphone 7",
+
+    "gallery.maxwell.title": "Maxwell",
+    "gallery.maxwell.description": "Équations de Maxwell",
+    "gallery.maxwell.location": "Tekniska Högskolan, Métro de Stockholm",
+    "gallery.maxwell.camera": "Iphone 7",
+
+
+
+
+    
     
     "cv.name": "Léandre Roccaserra",
     
