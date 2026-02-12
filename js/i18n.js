@@ -212,7 +212,7 @@ const translations = {
     "gallery.sun.date": "05/08/2025",
     "gallery.sun.location": "France",
     "gallery.sun.software": "Traitement avec GIMP",
-    "gallery.sun.description": "Photographié avec un filtre Baader pour observer les tâches solaires",
+    "gallery.sun.description": "Photographié avec un filtre Astrosolar pour observer les tâches solaires",
     "gallery.sun.instrument": "Télescope 203/1200",
     "gallery.sun.camera": "Iphone XS",
 
