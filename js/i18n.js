@@ -359,7 +359,7 @@ const translations = {
     "cv.internships.highschool.description": "Une semaine au CEA Paris-Saclay, département d'astrophysique encadré par Patrice Bouchet. Une semaine dans l'UF de Physique de l'université Paris Diderot.",
     
     "cv.jobs": "Expérience professionnelle",
-    "cv.jobs.CS.itle": "Animateur scientifique",
+    "cv.jobs.CS.title": "Animateur scientifique",
     "cv.jobs.CS.employer": "Cap Sciences",
     "cv.jobs.CS.city": "Bordeaux",
     "cv.jobs.CS.period": "Depuis 2023",
