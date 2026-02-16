@@ -168,7 +168,7 @@ const translations = {
     "cv.jobs.CS.description5": "workshop aimed at introducing teenagers to synthesizers and audio signal processing.",
 
     "cv.jobs.summer.title": "Various summer jobs",
-    "cv.jobs.summer.description": "Agricultural worker (corn detasseling, harvest, etc), ",
+    "cv.jobs.summer.description": "Agricultural worker, City worker for a small town",
     "cv.jobs.summer.period": "Every summer since 2021",
 
     "cv.digitalskills": "Digital skills",
@@ -371,8 +371,8 @@ const translations = {
     "cv.jobs.CS.description5": "à destination des 11-16 ans.",
 
     "cv.jobs.summer.title": "Divers emplois saisonniers",
-    "cv.jobs.summer.description": "Employé agricole (castration du maïs, récolte, etc), Employé communal (entretien des espaces verts, etc)",
-    "cv.jobs.summer.period": "chaque été depuis 2021",
+    "cv.jobs.summer.description": "Employé agricole, Employé communal",
+    "cv.jobs.summer.period": "Chaque été depuis 2021",
 
 
     
