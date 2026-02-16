@@ -367,7 +367,7 @@ const translations = {
     "cv.jobs.CS.description2": "animation des expositions",
     "cv.jobs.CS.description3": "et",
     "cv.jobs.CS.description.videogames": "Jeux Vidéos",
-    "cv.jobs.CS.description4": "animation de l'atelier d'introduction à la synthèse musicale",
+    "cv.jobs.CS.description4": "et de l'atelier d'introduction à la synthèse musicale",
     "cv.jobs.CS.description5": "à destination des 11-16 ans.",
 
     "cv.jobs.summer.title": "Divers emplois saisonniers",
@@ -376,10 +376,6 @@ const translations = {
 
 
     
-
-    
-    
-
     
     "cv.digitalskills": "Compétences numériques",
     "cv.digitalskills.coding": "Programmation :",
