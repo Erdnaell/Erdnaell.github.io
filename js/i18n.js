@@ -156,16 +156,20 @@ const translations = {
     
       
     "cv.jobs": "Work experience",
-    "cv.jobs.title": "Science communicator",
-    "cv.jobs.employer": "Cap Sciences",
-    "cv.jobs.city": "Bordeaux",
-    "cv.jobs.period": "Since 2023",
-    "cv.jobs.description1": "Part time job in a science communication museum where I hosted sessions of the",
-    "cv.jobs.description2": "I gave guided tours of exhibitions on",
-    "cv.jobs.description.videogames": "Video Games",
-    "cv.jobs.description3": "and",
-    "cv.jobs.description4": "and I led a few sessions of the",
-    "cv.jobs.description5": "workshop aimed at introducing teenagers to synthesizers and audio signal processing.",
+    "cv.jobs.CS.title": "Science communicator",
+    "cv.jobs.CS.employer": "Cap Sciences",
+    "cv.jobs.CS.city": "Bordeaux",
+    "cv.jobs.CS.period": "Since 2023",
+    "cv.jobs.CS.description1": "Part time job in a science communication museum where I hosted sessions of the",
+    "cv.jobs.CS.description2": "I gave guided tours of exhibitions on",
+    "cv.jobs.CS.description.videogames": "Video Games",
+    "cv.jobs.CS.description3": "and",
+    "cv.jobs.CS.description4": "and I led a few sessions of the",
+    "cv.jobs.CS.description5": "workshop aimed at introducing teenagers to synthesizers and audio signal processing.",
+
+    "cv.jobs.summer.title": "Various summer jobs",
+    "cv.jobs.summer.description": "Agricultural worker (corn detasseling, harvest, etc), ",
+    "cv.jobs.summer.period": "Every summer since 2021",
 
     "cv.digitalskills": "Digital skills",
     "cv.digitalskills.coding": "Coding:",
@@ -354,17 +358,26 @@ const translations = {
     "cv.internships.highschool.title": "Stages de seconde",
     "cv.internships.highschool.description": "Une semaine au CEA Paris-Saclay, département d'astrophysique encadré par Patrice Bouchet. Une semaine dans l'UF de Physique de l'université Paris Diderot.",
     
-   "cv.jobs": "Expérience professionnelle",
-    "cv.jobs.title": "Animateur scientifique",
-    "cv.jobs.employer": "Cap Sciences",
-    "cv.jobs.city": "Bordeaux",
-    "cv.jobs.period": "Depuis 2023",
-    "cv.jobs.description1": "Animation du",
-    "cv.jobs.description2": "animation des expositions",
-    "cv.jobs.description3": "et",
-    "cv.jobs.description.videogames": "Jeux Vidéos",
-    "cv.jobs.description4": "animation de l'atelier d'introduction à la synthèse musicale",
-    "cv.jobs.description5": "à destination des 11-16 ans.",
+    "cv.jobs": "Expérience professionnelle",
+    "cv.jobs.CS.itle": "Animateur scientifique",
+    "cv.jobs.CS.employer": "Cap Sciences",
+    "cv.jobs.CS.city": "Bordeaux",
+    "cv.jobs.CS.period": "Depuis 2023",
+    "cv.jobs.CS.description1": "Animation du",
+    "cv.jobs.CS.description2": "animation des expositions",
+    "cv.jobs.CS.description3": "et",
+    "cv.jobs.CS.description.videogames": "Jeux Vidéos",
+    "cv.jobs.CS.description4": "animation de l'atelier d'introduction à la synthèse musicale",
+    "cv.jobs.CS.description5": "à destination des 11-16 ans.",
+
+    "cv.jobs.summer.title": "Divers emplois saisonniers",
+    "cv.jobs.summer.description": "Employé agricole (castration du maïs, récolte, etc), Employé communal (entretien des espaces verts, etc)",
+    "cv.jobs.summer.period": "chaque été depuis 2021",
+
+
+    
+
+    
     
 
     
