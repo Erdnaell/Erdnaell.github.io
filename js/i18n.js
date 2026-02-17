@@ -185,11 +185,11 @@ const translations = {
 
     "cv.hobbies": "Hobbies",
     "cv.hobbies.astronomy": "Astronomy: ",
-    "cv.hobbies.astronomy.description": "I have been practicing amateur astronomy for six years with a 203/1200 (8'') dobsonian telescope.",
+    "cv.hobbies.astronomy.description": "I have been practicing amateur astronomy for six years with a 203/1200 (8'') dobsonian telescope",
     "cv.hobbies.guitar": "Guitar/Bass: ",
-    "cv.hobbies.guitar.description": "I have been practicing guitar and bass alone and in bands for eight years.",
+    "cv.hobbies.guitar.description": "I have been practicing guitar and bass alone and in bands for eight years",
     "cv.hobbies.climbing": "Climbing: ",
-    "cv.hobbies.climbing.description": "I have been climbing for eight years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
+    "cv.hobbies.climbing.description": "I have been climbing for eight years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing",
 
 
     "footer.moto": "Astronomy - Scientific photography - Physics - Creative projects",
@@ -395,7 +395,7 @@ const translations = {
 
     "cv.hobbies": "Centres d'intérêt",
     "cv.hobbies.astronomy": "Astronomie amateur :",
-    "cv.hobbies.astronomy.description": "6 ans d'observations avec un télescope Dobson 203/1200.",
+    "cv.hobbies.astronomy.description": "6 ans d'observations avec un télescope Dobson 203/1200",
     "cv.hobbies.guitar": "Guitare/Basse : ",
     "cv.hobbies.guitar.description": "8 ans de pratique seul et en groupe, composition et MAO",
     "cv.hobbies.climbing": "Escalade : ",
