@@ -115,6 +115,9 @@ const translations = {
     "gallery.maxwell.location": "Tekniska Högskolan, Stockholm Subway",
     "gallery.maxwell.camera": "Iphone 7",
       
+
+    "cv.title": "Resume",
+
     
     "cv.name": "Léandre Roccaserra",
     "cv.position": "Physics graduate student",
@@ -187,6 +190,7 @@ const translations = {
     "cv.hobbies.guitar.description": "I have been practicing guitar and bass alone and in bands for eight years.",
     "cv.hobbies.climbing": "Climbing: ",
     "cv.hobbies.climbing.description": "I have been climbing for eight years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing.",
+
 
     "footer.moto": "Astronomy - Scientific photography - Physics - Creative projects",
     "footer.about": "About",
@@ -317,6 +321,8 @@ const translations = {
 
 
     
+
+    "cv.title": "CV", 
     
     "cv.name": "Léandre Roccaserra",
     
