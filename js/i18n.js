@@ -12,6 +12,7 @@ const translations = {
     "index.welcome": "Welcome to my website",
     "index.moto": "Astronomy, scientific photography, projects and more",
     "index.gallerybutton": "To the gallery",
+    "index.title": "Home - My Website"
 
     "gallery.title": "Gallery",
 
@@ -209,6 +210,7 @@ const translations = {
     "index.welcome": "Bienvenue sur mon site",
     "index.moto": "Astronomie amateure, photographie scientifique, projets et autres",
     "index.gallerybutton": "Voir la galerie",
+    "index.title": "Accueil - Mon site"
 
     "gallery.title": "Galerie",
     
