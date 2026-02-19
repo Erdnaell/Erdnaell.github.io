@@ -280,7 +280,7 @@ const translations = {
     "gallery.saturn.camera": "Iphone 7",
     "gallery.saturn.description": "Ma première image de Saturne",
 
-    "gallery.carbon.title": "Réseau crystalin d'un échantillon de graphene",
+    "gallery.carbon.title": "Réseau cristallin d'un échantillon de graphene",
     "gallery.carbon.date": "",
     "gallery.carbon.location": "",
     "gallery.carbon.software": "Traitement avec Gwyddion",
