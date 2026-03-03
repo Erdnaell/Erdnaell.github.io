@@ -330,7 +330,7 @@ const translations = {
     
     "cv.education" : "Formation",
     "cv.education.master.title": "Master 1 Physique Fondamentale et Applications",
-    "cv.education.master.program": "Parcours Noyaux Particules et Univers",
+    "cv.education.master.program": "Parcours Noyaux, Particules et Univers",
     "cv.education.master.school": "Université de Bordeaux",
     "cv.education.master.period": "Actuel",
 
