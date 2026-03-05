@@ -340,6 +340,11 @@ main {
   text-align: justify;
 }
 
+.cv-html date
+  text-align: right
+
+{
+
 a {
   color: #42B0FF;        /* normal link color */
   text-decoration: none; /* remove underline if you want */
