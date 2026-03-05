@@ -337,7 +337,8 @@ main {
 
 .cv-html li {
   margin: 10px 0;
-  text-align: justify;
+  display: flex;
+  justify-content: space-between;
 }
 
 .cv-html span.dates {
