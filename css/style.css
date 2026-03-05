@@ -337,12 +337,11 @@ main {
 
 .cv-html li {
   margin: 10px 0;
-  display: flex;
-  justify-content: space-between;
+  text-align: justify;
 }
 
 .cv-html span.dates {
-  text-align: right;
+  float: right;
 }
 
 
