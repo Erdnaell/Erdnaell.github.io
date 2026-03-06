@@ -170,7 +170,7 @@ const translations = {
     "cv.jobs.CS.description2": "I gave guided tours of exhibitions on",
     "cv.jobs.CS.description.videogames": "Video Games",
     "cv.jobs.CS.description3": "and",
-    "cv.jobs.CS.description4": "and I led a few sessions of the",
+    "cv.jobs.CS.description4": "I led a few sessions of the",
     "cv.jobs.CS.description5": "workshop aimed at introducing teenagers to synthesizers and audio signal processing.",
 
     "cv.jobs.summer.title": "Various summer jobs",
@@ -364,7 +364,7 @@ const translations = {
     "cv.internships.research.L3.description1": "Caractérisation de circuits photoniques quantiques intégrés",
     "cv.internships.research.L3.supervisor": "Encadré par Pr. Mohamed Bourennane.",
     "cv.internships.research.L3.description2": "Mesure des pertes optiques dans des prototypes de guides d'ondes en LiNbO3",
-    "cv.internships.research.L3.description3": "Periodic poling d'échantillons de LiNbO3 par application de haute tension"
+    "cv.internships.research.L3.description3": "Periodic poling d'échantillons de LiNbO3 par application de haute tension",
 
     "cv.internships.highschool": "Découverte",
     "cv.internships.highschool.title": "Stages de seconde",
