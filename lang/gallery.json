@@ -1,5 +1,5 @@
 {
-  en: {
+  "en" : {
     
 "gallery.title": "Gallery",
 
@@ -103,7 +103,7 @@
     "gallery.maxwell.camera": "Iphone 7",
 
       },
-  fr: {
+  "fr" : {
     
  "gallery.title": "Galerie",
     
