@@ -1,4 +1,4 @@
-const translations = {
+{
   en: {
     
 "gallery.title": "Gallery",
@@ -119,7 +119,7 @@ const translations = {
     "gallery.sun2.date": "05/08/2025",
     "gallery.sun2.location": "France",
     "gallery.sun2.software": "Traitement avec GIMP",
-    "gallery.sun2.description": "Photographié (une seconde trop tard) avec un filtre Baader",
+    "gallery.sun2.description": "Photographié (une seconde trop tard) avec un filtre Astrosolar",
     "gallery.sun2.instrument": "Télescope 203/1200",
     "gallery.sun2.camera": "Iphone XS",
     
@@ -159,7 +159,7 @@ const translations = {
     "gallery.jupiter.software": "Traitement aevc PIPP et Autostakkert3",
     "gallery.jupiter.instrument": "Télescope 203/1200",
     "gallery.jupiter.camera": "Iphone 7",
-    "gallery.jupiter.description": "Ma première image Jupiter",
+    "gallery.jupiter.description": "Ma première image de Jupiter",
 
     "gallery.saturn.title": "Saturne",
     "gallery.saturn.date": "17/11/2025",
@@ -209,28 +209,3 @@ const translations = {
   }
   };
 
-function setLanguage(lang) {
-  localStorage.setItem("lang", lang);   // Save language choice
-  
-  document.querySelectorAll("[data-i18n]").forEach((el) => {
-    const key = el.dataset.i18n;
-    el.textContent = translations[lang][key];
-  });
-}
-
-// Apply language on page load
-document.addEventListener("DOMContentLoaded", () => {
-  // Language
-  const saved = localStorage.getItem("lang") || "fr";
-  setLanguage(saved);
-
-  // Mobile nav toggle
-  const toggle = document.querySelector(".nav-toggle");
-  const menu = document.getElementById("nav-menu");
-
-  if (toggle && menu) {
-    toggle.addEventListener("click", () => {
-      menu.classList.toggle("show");
-    });
-  }
-});
