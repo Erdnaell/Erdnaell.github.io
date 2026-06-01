@@ -1,4 +1,5 @@
-en : {
+{
+    "en" : {
 
 "cv.title": "Resume",
 
@@ -79,7 +80,7 @@ en : {
     "cv.hobbies.climbing.description": "I have been climbing for eight years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing",
 },
 
-fr : {
+"fr" : {
    "cv.title": "CV", 
     
     "cv.name": "Léandre Roccaserra",
