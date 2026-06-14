@@ -177,7 +177,9 @@ const translations = {
      "cv.jobs.DRI.title": "International promotion assistant",
     "cv.jobs.DRI.location": "International Officce - University of Bordeaux",
     "cv.jobs.DRI.period": "March - July 2026",
-    "cv.jobs.DRI.description": "Student contract within the International Relations Office at the University of Bordeaux. Assisted with the organization of the Bordeaux Summer Schools. Translated articles from French to English for the university website and courses titles for the course catalog.",
+    "cv.jobs.DRI.description": "Student contract within the International Relations Office at the University of Bordeaux.",
+    "cv.jobs.DRI.description1": "Assisted with the organization of the Bordeaux Summer Schools",
+    "cv.jobs.DRI.description2": " Translated articles from French to English for the university website and courses titles for the course catalog",
 
 
     "cv.jobs.summer.title": "Various summer jobs",
@@ -393,7 +395,9 @@ const translations = {
     "cv.jobs.DRI.title": "Assistant de promotion international",
     "cv.jobs.DRI.location": "Bureau de Promotion Internationale - Université de Bordeaux",
     "cv.jobs.DRI.period": "mars - juillet 2026",
-    "cv.jobs.DRI.description": "Contrat étudiant au BPI, au sein de la Direction des Relations Internationales de l'Université de Bordeaux. Appui à l'oganisation des Bordeaux Summer Schools. Traductions français -> anglais d'articles pour le site de l'université et du catalogue de formations.",
+    "cv.jobs.DRI.description": "Contrat étudiant au BPI, au sein de la Direction des Relations Internationales de l'Université de Bordeaux.",
+    "cv.jobs.DRI.description1": "Appui à l'oganisation des Bordeaux Summer Schools",
+    "cv.jobs.DRI.description2": "Traductions français -> anglais d'articles pour le site de l'université et du catalogue de formations",
 
     "cv.jobs.summer.title": "Divers emplois saisonniers",
     "cv.jobs.summer.description": "Employé agricole, Employé communal",
