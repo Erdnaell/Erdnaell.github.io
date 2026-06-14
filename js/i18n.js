@@ -184,7 +184,7 @@ const translations = {
 
     "cv.jobs.summer.title": "Various summer jobs",
     "cv.jobs.summer.description": "Agricultural worker, City worker for a small town",
-    "cv.jobs.summer.period": "Every summer since 2021",
+    "cv.jobs.summer.period": "2021 - 2025, every summer",
 
     "cv.digitalskills": "Digital skills",
     "cv.digitalskills.coding": "Coding:",
@@ -401,7 +401,7 @@ const translations = {
 
     "cv.jobs.summer.title": "Divers emplois saisonniers",
     "cv.jobs.summer.description": "Employé agricole, Employé communal",
-    "cv.jobs.summer.period": "Chaque été depuis 2021",
+    "cv.jobs.summer.period": "2021 - 2025, chaque été",
 
 
     
