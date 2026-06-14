@@ -125,7 +125,7 @@ const translations = {
     "cv.education.master.title": "First year of a Master's degree in Physics",
     "cv.education.master.program": "Nucleus, Particles and Universe Program",
     "cv.education.master.school": "Bordeaux University",
-    "cv.education.master.period": "Current",
+    "cv.education.master.period": "2026",
 
     "cv.education.bachelor.title": "Bachelor's degree in Physics",
     "cv.education.bachelor.program": "International Program",
@@ -343,7 +343,7 @@ const translations = {
     "cv.education.master.title": "Master 1 Physique Fondamentale et Applications",
     "cv.education.master.program": "Parcours Noyaux, Particules et Univers",
     "cv.education.master.school": "Université de Bordeaux",
-    "cv.education.master.period": "Actuel",
+    "cv.education.master.period": "2026",
 
     "cv.education.bachelor.title": "Licence de Physique",
     "cv.education.bachelor.program": "Parcours International",
