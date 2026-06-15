@@ -189,6 +189,7 @@ const translations = {
     "cv.digitalskills": "Digital skills",
     "cv.digitalskills.coding": "Coding:",
     "cv.digitalskills.editing": "Editing:",
+    "cv.digitalskills.editing1": "LaTeX, Office suite (Word, Excel, PowerPoint)",
 
     "cv.certifications": "Certifications",
     "cv.certifications.english": "English:",
@@ -410,6 +411,7 @@ const translations = {
     "cv.digitalskills": "Compétences numériques",
     "cv.digitalskills.coding": "Programmation :",
     "cv.digitalskills.editing": "Présentation :",
+    "cv.digitalskills.editing1": "LaTeX, suite Office (Word, Excel, PowerPoint)",
 
     "cv.certifications": "Certifications",
     "cv.certifications.english": "Anglais :",
