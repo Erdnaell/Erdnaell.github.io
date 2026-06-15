@@ -397,7 +397,7 @@ const translations = {
     "cv.jobs.DRI.period": "mars - juillet 2026",
     "cv.jobs.DRI.description": "Contrat étudiant au BPI, au sein de la Direction des Relations Internationales de l'Université de Bordeaux.",
     "cv.jobs.DRI.description1": "Appui à l'oganisation des Bordeaux Summer Schools",
-    "cv.jobs.DRI.description2": "Traductions français → anglais d'articles pour le site de l'université et du catalogue de formations",
+    "cv.jobs.DRI.description2": "Traductions français → anglais d'articles pour le site de l'université et d'intitulés du catalogue de formations",
 
     "cv.jobs.summer.title": "Divers emplois saisonniers",
     "cv.jobs.summer.description": "Employé agricole, Employé communal",
