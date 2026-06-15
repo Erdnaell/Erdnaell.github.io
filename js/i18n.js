@@ -417,7 +417,7 @@ const translations = {
 
     "cv.hobbies": "Centres d'intérêt",
     "cv.hobbies.astronomy": "Astronomie amateur :",
-    "cv.hobbies.astronomy.description": "6 ans d'observations avec un télescope Dobson 203/1200. Astrophotographie planétaire/solaire",
+    "cv.hobbies.astronomy.description": "6 ans d'observations avec un télescope Dobson 203/1200. Astrophotographie amateur planétaire/solaire",
     "cv.hobbies.astronomy.link": "(voir la galerie)",
     "cv.hobbies.guitar": "Guitare/Basse : ",
     "cv.hobbies.guitar.description": "8 ans de pratique seul et en groupe, composition et MAO",
