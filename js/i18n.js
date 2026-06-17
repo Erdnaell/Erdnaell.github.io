@@ -396,7 +396,7 @@ const translations = {
     
     "cv.jobs.DRI.title": "Assistant de promotion international",
     "cv.jobs.DRI.location": "Bureau de Promotion Internationale - Université de Bordeaux",
-    "cv.jobs.DRI.period": "mars - juillet 2026",
+    "cv.jobs.DRI.period": "Mars - Juillet 2026",
     "cv.jobs.DRI.description": "Contrat étudiant au BPI, au sein de la Direction des Relations Internationales de l'Université de Bordeaux.",
     "cv.jobs.DRI.description1": "Appui à l'oganisation des Bordeaux Summer Schools",
     "cv.jobs.DRI.description2": "Traductions français → anglais d'articles pour le site de l'université et d'intitulés du catalogue de formations",
