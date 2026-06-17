@@ -167,11 +167,11 @@ const translations = {
     "cv.jobs.CS.city": "Bordeaux",
     "cv.jobs.CS.period": "Since 2023",
     "cv.jobs.CS.description": "Part time job in a science communication museum",
-    "cv.jobs.CS.description1": "I hosted sessions of the",
-    "cv.jobs.CS.description2": "I gave guided tours of exhibitions on",
+    "cv.jobs.CS.description1": "Hosted sessions of the",
+    "cv.jobs.CS.description2": "Gave guided tours of exhibitions on",
     "cv.jobs.CS.description.videogames": "Video Games",
     "cv.jobs.CS.description3": "and",
-    "cv.jobs.CS.description4": "I led a few sessions of a workshop aimed at introducing teenagers to synthesizers and audio signal processing called",
+    "cv.jobs.CS.description4": "Led a few sessions of a workshop aimed at introducing teenagers to synthesizers and audio signal processing called",
     "cv.jobs.CS.description5": "",
 
      "cv.jobs.DRI.title": "International promotion assistant",
@@ -197,12 +197,12 @@ const translations = {
 
     "cv.hobbies": "Hobbies",
     "cv.hobbies.astronomy": "Astronomy: ",
-    "cv.hobbies.astronomy.description": "I have been practicing amateur astronomy for six years with a 203/1200 (8'') dobsonian telescope. Amateur planetary and solar astrophotography",
+    "cv.hobbies.astronomy.description": "Amateur astronomy: Six years of observation with a 203/1200 (8'') dobsonian telescope. Amateur planetary and solar astrophotography",
     "cv.hobbies.astronomy.link": "(see the galerie)",
     "cv.hobbies.guitar": "Guitar/Bass: ",
-    "cv.hobbies.guitar.description": "I have been practicing guitar and bass alone and in bands for eight years",
+    "cv.hobbies.guitar.description": "Music : Played guitar and bass alone and in bands since high school",
     "cv.hobbies.climbing": "Climbing: ",
-    "cv.hobbies.climbing.description": "I have been climbing for eight years, mainly indoor with some outdoor experience. My level is 6c+ (V5/6) in bouldering and lead climbing",
+    "cv.hobbies.climbing.description": "Climbing: Eight years of practice, mainly indoor with some outdoor experience. Level 6c+ (V5/6) in bouldering and lead climbing",
 
 
     "footer.moto": "Astronomy - Scientific photography - Physics - Creative projects",
