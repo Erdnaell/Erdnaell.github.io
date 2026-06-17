@@ -171,8 +171,8 @@ const translations = {
     "cv.jobs.CS.description2": "I gave guided tours of exhibitions on",
     "cv.jobs.CS.description.videogames": "Video Games",
     "cv.jobs.CS.description3": "and",
-    "cv.jobs.CS.description4": "I led a few sessions of the",
-    "cv.jobs.CS.description5": "workshop aimed at introducing teenagers to synthesizers and audio signal processing.",
+    "cv.jobs.CS.description4": "I led a few sessions of a workshop aimed at introducing teenagers to synthesizers and audio signal processing called",
+    "cv.jobs.CS.description5": "",
 
      "cv.jobs.DRI.title": "International promotion assistant",
     "cv.jobs.DRI.location": "International Officce - University of Bordeaux",
