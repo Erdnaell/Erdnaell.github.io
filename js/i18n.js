@@ -121,6 +121,12 @@ const translations = {
     
     "cv.name": "Léandre Roccaserra",
     "cv.position": "Physics graduate student",
+    "cv.mail": ": leandre.roccaserra@gmail.com",
+    "cv.phone": ": 0695263911",
+    "cv.website1": ": ",
+    "cv.website2": "erdnaell.github.io",
+
+
     "cv.education": "Education",
     "cv.education.master.title": "First year of a Master's degree in Physics",
     "cv.education.master.program": "Nucleus, Particles and Universe Program",
@@ -175,9 +181,9 @@ const translations = {
     "cv.jobs.CS.description5": "",
 
      "cv.jobs.DRI.title": "International promotion assistant",
-    "cv.jobs.DRI.location": "International Officce - University of Bordeaux",
+    "cv.jobs.DRI.location": "International Office, University of Bordeaux",
     "cv.jobs.DRI.period": "March - July 2026",
-    "cv.jobs.DRI.description": "Student contract within the International Relations Office at the University of Bordeaux.",
+    "cv.jobs.DRI.description": "",
     "cv.jobs.DRI.description1": "Assisted with the organization of the Bordeaux Summer Schools",
     "cv.jobs.DRI.description2": " Translated articles from French to English for the university website and courses titles for the course catalog",
 
@@ -196,13 +202,13 @@ const translations = {
     "cv.certifications.firstaid": "First aid:",
 
     "cv.hobbies": "Hobbies",
-    "cv.hobbies.astronomy": "Astronomy: ",
-    "cv.hobbies.astronomy.description": "Amateur astronomy: Six years of observation with a 203/1200 (8'') dobsonian telescope. Amateur planetary and solar astrophotography",
+    "cv.hobbies.astronomy": "Amateur astronomy: ",
+    "cv.hobbies.astronomy.description": "Six years of observation with a 203/1200 (8'') dobsonian telescope. Amateur planetary and solar astrophotography",
     "cv.hobbies.astronomy.link": "(see the galerie)",
-    "cv.hobbies.guitar": "Guitar/Bass: ",
-    "cv.hobbies.guitar.description": "Music : Played guitar and bass alone and in bands since high school",
+    "cv.hobbies.guitar": "Music: ",
+    "cv.hobbies.guitar.description": "Played guitar and bass alone and in bands since high school",
     "cv.hobbies.climbing": "Climbing: ",
-    "cv.hobbies.climbing.description": "Climbing: Eight years of practice, mainly indoor with some outdoor experience. Level 6c+ (V5/6) in bouldering and lead climbing",
+    "cv.hobbies.climbing.description": "Eight years of practice, mainly indoor with some outdoor experience. Level 6c+ (V5/6) in bouldering and lead climbing",
 
 
     "footer.moto": "Astronomy - Scientific photography - Physics - Creative projects",
@@ -340,6 +346,10 @@ const translations = {
     "cv.name": "Léandre Roccaserra",
     
     "cv.position": "Étudiant en Physique",
+    "cv.mail": " : leandre.roccaserra@gmail.com",
+    "cv.phone": " : 0695263911",
+    "cv.website1": " : ",
+    "cv.website2": "erdnaell.github.io",
     
     "cv.education" : "Formation",
     "cv.education.master.title": "Master 1 Physique Fondamentale et Applications",
@@ -366,7 +376,7 @@ const translations = {
     "cv.internships.research.M1.supervisor": "Encadré par Pr. Joao Santos.",
     "cv.internships.research.M1.description2": "Mesure de champs magnétiques par polarimétrie sur des images de tirs laser obtenues sur des expériences antérieures",
     "cv.internships.research.M1.description21": "Participation à une campagne expérimentale sur le laser ABC à",
-    "cv.internships.research.M1.description3": "Frascati, en Italie et analyse préliminaire des images des premiers tirs.",
+    "cv.internships.research.M1.description3": "Frascati, en Italie et analyse préliminaire des images des premiers tirs",
     "cv.internships.research.L3.title": "Stage de L3",
     "cv.internships.research.L3.lab1": "Université de Stockholm",
     "cv.internships.research.L3.description.group.before": "groupe de recherche",
@@ -379,7 +389,7 @@ const translations = {
 
     "cv.internships.highschool": "Découverte",
     "cv.internships.highschool.title": "Stages de seconde",
-    "cv.internships.highschool.description": "Une semaine au CEA Paris-Saclay, département d'astrophysique encadré par Patrice Bouchet. Une semaine dans l'UF de Physique de l'université Paris Diderot.",
+    "cv.internships.highschool.description": "CEA Paris-Saclay, département d'astrophysique, encadré par Patrice Bouchet | Université Paris-Diderot, UF de Physique",
     
     "cv.jobs": "Expérience professionnelle",
     "cv.jobs.CS.title": "Animateur scientifique",
@@ -395,10 +405,10 @@ const translations = {
 
     
     "cv.jobs.DRI.title": "Assistant de promotion international",
-    "cv.jobs.DRI.location": "Bureau de Promotion Internationale - Université de Bordeaux",
+    "cv.jobs.DRI.location": "Direction des Relations Internationales, Université de Bordeaux",
     "cv.jobs.DRI.period": "Mars - Juillet 2026",
-    "cv.jobs.DRI.description": "Contrat étudiant au BPI, au sein de la Direction des Relations Internationales de l'Université de Bordeaux.",
-    "cv.jobs.DRI.description1": "Appui à l'oganisation des Bordeaux Summer Schools",
+    "cv.jobs.DRI.description": "",
+    "cv.jobs.DRI.description1": "Aide à l'oganisation des Bordeaux Summer Schools",
     "cv.jobs.DRI.description2": "Traductions français → anglais d'articles pour le site de l'université et d'intitulés du catalogue de formations",
 
     "cv.jobs.summer.title": "Divers emplois saisonniers",
@@ -419,7 +429,7 @@ const translations = {
 
     "cv.hobbies": "Centres d'intérêt",
     "cv.hobbies.astronomy": "Astronomie amateur :",
-    "cv.hobbies.astronomy.description": "6 ans d'observations avec un télescope Dobson 203/1200. Astrophotographie amateur planétaire/solaire",
+    "cv.hobbies.astronomy.description": "6 ans d'observation avec un télescope Dobson 203/1200. Astrophotographie amateur planétaire/solaire",
     "cv.hobbies.astronomy.link": "(voir la galerie)",
     "cv.hobbies.guitar": "Guitare/Basse : ",
     "cv.hobbies.guitar.description": "8 ans de pratique seul et en groupe, composition et MAO",
