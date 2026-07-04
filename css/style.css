@@ -348,6 +348,8 @@ main {
 
 .cv-html span.dates {
   float: right;
+  font-weight: bold;
+
 }
 
 

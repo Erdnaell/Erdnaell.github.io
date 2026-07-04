@@ -122,7 +122,7 @@ const translations = {
     "cv.name": "Léandre Roccaserra",
     "cv.position": "Physics graduate student",
     "cv.mail": ": leandre.roccaserra@gmail.com",
-    "cv.phone": ": 0695263911",
+    "cv.phone": ": +33 06 95 26 39 11",
     "cv.website1": ": ",
     "cv.website2": "erdnaell.github.io",
 
@@ -164,7 +164,7 @@ const translations = {
 
     "cv.internships.highschool": "High School",
     "cv.internships.highschool.title": "First year of high school internships",
-    "cv.internships.highschool.description": "One week at CEA Paris-Saclay Astrophysics department, supervised by Patrice Bouchet. One week at Paris-Diderot University Physics department.",
+    "cv.internships.highschool.description": "One week at CEA Paris-Saclay Astrophysics department, supervised by Patrice Bouchet. One week at Paris-Diderot University Physics department, supervised by Yves Chanteux",
     
       
     "cv.jobs": "Work experience",
@@ -347,7 +347,7 @@ const translations = {
     
     "cv.position": "Étudiant en Physique",
     "cv.mail": " : leandre.roccaserra@gmail.com",
-    "cv.phone": " : 0695263911",
+    "cv.phone": " : +33 06 95 26 39 11",
     "cv.website1": " : ",
     "cv.website2": "erdnaell.github.io",
     
@@ -389,7 +389,7 @@ const translations = {
 
     "cv.internships.highschool": "Découverte",
     "cv.internships.highschool.title": "Stages de seconde",
-    "cv.internships.highschool.description": "CEA Paris-Saclay, département d'astrophysique, encadré par Patrice Bouchet | Université Paris-Diderot, UF de Physique",
+    "cv.internships.highschool.description": "CEA Paris-Saclay, département d'astrophysique, encadré par Patrice Bouchet | Université Paris-Diderot, UF de Physique, encadré par Yves Chanteux",
     
     "cv.jobs": "Expérience professionnelle",
     "cv.jobs.CS.title": "Animateur scientifique",
