@@ -373,7 +373,7 @@ const translations = {
     "cv.internships.research": "Universitaire",
     "cv.internships.research.M1.title": "Stage de M1",
     "cv.internships.research.M1.description1": " Génération de champs magnétiques quasi-statiques par interaction laser-matière avec des cibles à boucle",
-    "cv.internships.research.M1.supervisor": "Encadré par Pr. Joao Santos.",
+    "cv.internships.research.M1.supervisor": "encadré par Pr. João Santos.",
     "cv.internships.research.M1.description2": "Mesure de champs magnétiques par polarimétrie sur des images de tirs laser obtenues sur des expériences antérieures",
     "cv.internships.research.M1.description21": "Participation à une campagne expérimentale sur le laser ABC à",
     "cv.internships.research.M1.description3": "Frascati, en Italie et analyse préliminaire des images des premiers tirs",
@@ -383,7 +383,7 @@ const translations = {
     "cv.internships.research.L3.description.group.after": "",
     "cv.internships.research.L3.lab2": "groupe de recherche",
     "cv.internships.research.L3.description1": "Caractérisation de circuits photoniques quantiques intégrés",
-    "cv.internships.research.L3.supervisor": "Encadré par Pr. Mohamed Bourennane.",
+    "cv.internships.research.L3.supervisor": "encadré par Pr. Mohamed Bourennane.",
     "cv.internships.research.L3.description2": "Mesure des pertes optiques dans des prototypes de guides d'ondes en LiNbO3",
     "cv.internships.research.L3.description3": "Periodic poling d'échantillons de LiNbO3 par application de haute tension",
 
