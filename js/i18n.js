@@ -408,7 +408,7 @@ const translations = {
     "cv.jobs.DRI.location": "Direction des Relations Internationales, Université de Bordeaux",
     "cv.jobs.DRI.period": "Mars - Juillet 2026",
     "cv.jobs.DRI.description": "",
-    "cv.jobs.DRI.description1": "Aide à l'oganisation des Bordeaux Summer Schools",
+    "cv.jobs.DRI.description1": "Soutien à l'oganisation des Bordeaux Summer Schools",
     "cv.jobs.DRI.description2": "Traductions français → anglais d'articles pour le site de l'université et d'intitulés du catalogue de formations",
 
     "cv.jobs.summer.title": "Divers emplois saisonniers",
@@ -431,8 +431,8 @@ const translations = {
     "cv.hobbies.astronomy": "Astronomie amateur :",
     "cv.hobbies.astronomy.description": "6 ans d'observation avec un télescope Dobson 203/1200. Astrophotographie amateur planétaire/solaire",
     "cv.hobbies.astronomy.link": "(voir la galerie)",
-    "cv.hobbies.guitar": "Guitare/Basse : ",
-    "cv.hobbies.guitar.description": "8 ans de pratique seul et en groupe, composition et MAO",
+    "cv.hobbies.guitar": "Musique : ",
+    "cv.hobbies.guitar.description": "Guitare et basse, 8 ans de pratique seul et en groupe, composition et MAO",
     "cv.hobbies.climbing": "Escalade : ",
     "cv.hobbies.climbing.description": "8 ans de pratique indoor/outdoor, niveau 6C+ en voie/bloc",
 
