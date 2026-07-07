@@ -420,7 +420,7 @@ const translations = {
     
     "cv.digitalskills": "Compétences numériques",
     "cv.digitalskills.coding": "Programmation :",
-    "cv.digitalskills.editing": "Présentation :",
+    "cv.digitalskills.editing": "Rédaction/Bureautique :",
     "cv.digitalskills.editing1": "LaTeX, suite Office (Word, Excel, PowerPoint)",
 
     "cv.certifications": "Certifications",
@@ -429,12 +429,12 @@ const translations = {
 
     "cv.hobbies": "Centres d'intérêt",
     "cv.hobbies.astronomy": "Astronomie amateur :",
-    "cv.hobbies.astronomy.description": "6 ans d'observation avec un télescope Dobson 203/1200. Astrophotographie amateur planétaire/solaire",
+    "cv.hobbies.astronomy.description": "Télescope Dobson 203/1200. Astrophotographie amateur planétaire/solaire",
     "cv.hobbies.astronomy.link": "(voir la galerie)",
     "cv.hobbies.guitar": "Musique : ",
-    "cv.hobbies.guitar.description": "Guitare et basse, 8 ans de pratique seul et en groupe, composition et MAO",
+    "cv.hobbies.guitar.description": "Guitare/basse, seul et en groupe, composition et MAO",
     "cv.hobbies.climbing": "Escalade : ",
-    "cv.hobbies.climbing.description": "8 ans de pratique indoor/outdoor, niveau 6C+ en voie/bloc",
+    "cv.hobbies.climbing.description": "indoor/outdoor, niveau 6C+ en voie/bloc",
 
     "footer.moto": "Astronomie - Photographie scientifique - Physique - Projets",
     "footer.about": "À propos",

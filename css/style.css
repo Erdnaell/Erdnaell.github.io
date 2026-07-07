@@ -354,6 +354,16 @@ main {
 
 
 
+.cv-two-columns {
+    display: grid;
+    grid-template-columns: 3fr 2fr 4fr;
+    gap: 2rem;
+}
+
+
+
+
+
 a {
   color: #42B0FF;        /* normal link color */
   text-decoration: none; /* remove underline if you want */
