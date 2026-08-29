@@ -31,6 +31,8 @@ const translations = {
     "gallery.sun2.description": "Picture taken (one second too late) with a Astrosolar filter",
     "gallery.sun2.instrument": "203/1200 telescope",
     "gallery.sun2.camera": "Iphone XS",
+
+    "gallery.sun.Halpha.title": "The Sun in Hα",
     
     "gallery.eclipse.title": "Partial Eclipse",
     "gallery.eclipse.date": "29/03/2015",
@@ -71,12 +73,12 @@ const translations = {
     "gallery.jupiter.description": "My first picture of Jupiter",
 
     "gallery.saturn.title": "Saturn",
-    "gallery.saturn.date": "17/11/2025",
+    "gallery.saturn.date": "29/08/2026",
     "gallery.saturn.location": "France",
-    "gallery.saturn.software": "Edited with PIPP and Autostakkert3",
+    "gallery.saturn.software": "Edited with PIPP, Autostakkert4 & Gimp",
     "gallery.saturn.instrument": "203/1200 telescope",
-    "gallery.saturn.camera": "Iphone 7",
-    "gallery.saturn.description": "My first picture of Saturn",
+    "gallery.saturn.camera": "Iphone 12",
+    "gallery.saturn.description": "",
 
     "gallery.carbon.title": "Crystal lattice of a graphene sample",
     "gallery.carbon.date": "",
@@ -237,6 +239,9 @@ const translations = {
 
     "gallery.title": "Galerie",
     
+    "gallery.eclipse26.title": "Eclipse solaire du 12 août 2026 en Hα",
+    "gallery.eclipse26.instrument": "Acuter Elite Phoenix 40/400",
+
     "gallery.sun.title": "Tâches solaires",
     "gallery.sun.date": "05/08/2025",
     "gallery.sun.location": "France",
@@ -253,6 +258,10 @@ const translations = {
     "gallery.sun2.instrument": "Télescope 203/1200",
     "gallery.sun2.camera": "Iphone XS",
     
+    "gallery.sun.Halpha.title": "Le Soleil en Hα",
+    
+
+
     "gallery.eclipse.title": "Eclipse partielle",
     "gallery.eclipse.date": "29/03/2015",
     "gallery.eclipse.location": "France",
@@ -292,12 +301,12 @@ const translations = {
     "gallery.jupiter.description": "Ma première image Jupiter",
 
     "gallery.saturn.title": "Saturne",
-    "gallery.saturn.date": "17/11/2025",
+    "gallery.saturn.date": "29/08/2026",
     "gallery.saturn.location": "France",
-    "gallery.saturn.software": "Traitement aevc PIPP et Autostakkert3",
+    "gallery.saturn.software": "Traitement aevc PIPP, Autostakkert4 & Gimp",
     "gallery.saturn.instrument": "Télescope 203/1200",
-    "gallery.saturn.camera": "Iphone 7",
-    "gallery.saturn.description": "Ma première image de Saturne",
+    "gallery.saturn.camera": "Iphone 12",
+    "gallery.saturn.description": "",
 
     "gallery.carbon.title": "Réseau cristallin d'un échantillon de graphene",
     "gallery.carbon.date": "",
