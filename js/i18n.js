@@ -130,6 +130,11 @@ const translations = {
 
 
     "cv.education": "Education",
+    "cv.education.m2.title": "Second year of a Master's degree in Physics",
+    "cv.education.m2.program": "Nucleus, Particles and Universe",
+    "cv.education.m2.school": "University of Bordeaux",
+    "cv.education.m2.period": "Current",
+
     "cv.education.master.title": "First year of a Master's degree in Physics",
     "cv.education.master.program": "Nucleus, Particles and Universe Program",
     "cv.education.master.school": "Bordeaux University",
@@ -205,12 +210,12 @@ const translations = {
 
     "cv.hobbies": "Hobbies",
     "cv.hobbies.astronomy": "Amateur astronomy: ",
-    "cv.hobbies.astronomy.description": "Six years of observation with a 203/1200 (8'') dobsonian telescope. Amateur planetary and solar astrophotography",
+    "cv.hobbies.astronomy.description": "203/1200 (8'') Dobsonian telescope + 40/400 Hα solar telescope. Amateur planetary and solar astrophotography",
     "cv.hobbies.astronomy.link": "(see the galerie)",
     "cv.hobbies.guitar": "Music: ",
-    "cv.hobbies.guitar.description": "Played guitar and bass alone and in bands since high school",
+    "cv.hobbies.guitar.description": "Guitar/bass alone and in bands, composition and DAW",
     "cv.hobbies.climbing": "Climbing: ",
-    "cv.hobbies.climbing.description": "Eight years of practice, mainly indoor with some outdoor experience. Level 6c+ (V5/6) in bouldering and lead climbing",
+    "cv.hobbies.climbing.description": "Indoor, outdoor, Level 6c+ (V5/6) in bouldering and lead climbing",
 
 
     "footer.moto": "Astronomy - Scientific photography - Physics - Creative projects",
@@ -361,6 +366,12 @@ const translations = {
     "cv.website2": "erdnaell.github.io",
     
     "cv.education" : "Formation",
+
+    "cv.education.m2.title": "M2 Physique Fondamentale et Applications",
+    "cv.education.m2.program": "Noyaux, Particules et Univers",
+    "cv.education.m2.school": "Université de Bordeaux",
+    "cv.education.m2.period": "Actuel",
+
     "cv.education.master.title": "Master 1 Physique Fondamentale et Applications",
     "cv.education.master.program": "Parcours Noyaux, Particules et Univers / Agrégation",
     "cv.education.master.school": "Université de Bordeaux",
@@ -438,7 +449,7 @@ const translations = {
 
     "cv.hobbies": "Centres d'intérêt",
     "cv.hobbies.astronomy": "Astronomie amateur :",
-    "cv.hobbies.astronomy.description": "Télescope Dobson 203/1200. Astrophotographie amateur planétaire/solaire",
+    "cv.hobbies.astronomy.description": "Télescope Dobson 203/1200 + lunette solaire Hα 40/400. Astrophotographie amateur planétaire/solaire",
     "cv.hobbies.astronomy.link": "(voir la galerie)",
     "cv.hobbies.guitar": "Musique : ",
     "cv.hobbies.guitar.description": "Guitare/basse, seul et en groupe, composition et MAO",
