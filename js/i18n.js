@@ -449,7 +449,7 @@ const translations = {
 
     "cv.hobbies": "Centres d'intérêt",
     "cv.hobbies.astronomy": "Astronomie amateur :",
-    "cv.hobbies.astronomy.description": "Télescope Dobson 203/1200 + lunette solaire Hα 40/400. Astrophotographie amateur planétaire/solaire",
+    "cv.hobbies.astronomy.description": "Télescope Dobson 203/1200 +  Lunette solaire Hα 40/400. Astrophotographie amateur planétaire/solaire",
     "cv.hobbies.astronomy.link": "(voir la galerie)",
     "cv.hobbies.guitar": "Musique : ",
     "cv.hobbies.guitar.description": "Guitare/basse, seul et en groupe, composition et MAO",
